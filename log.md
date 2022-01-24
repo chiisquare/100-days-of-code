@@ -31,13 +31,13 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 --->
 
-Day 1: January 23, 2022, Sunday
+### Day 1: January 23, 2022, Sunday
 
 **Today's Progress**: Started FreeCodeCamp by learning basic HTML and HTML5.
 
 **Thoughts**: Pretty straightforward, really liking the concise tutorials. Feels good to see myself applying what I've learned on really basic applications.
 
-Day 2: January 24, 2022, Monday
+### Day 2: January 24, 2022, Monday
 
 **Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. Dad has generously purchased for me an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th!
 
