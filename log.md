@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
- <!---### Day 0: February 30, 2016 (Example 1)
+ <!--- EXAMPLE STRUCTURE
+### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -29,3 +30,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 --->
+
+Day 1: January 23, 2022, Sunday
+**Today's Progress**: Started FreeCodeCamp by learning basic HTML and HTML5.
+
+**Thoughts**: Pretty straightforward, really liking the concise tutorials. Feels good to see myself applying what I've learned on really basic applications.
+
+Day 2: January 24, 2022, Monday
+**Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. Dad has generously purchased for me an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th!
+**Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span feels pulled in multiple directions though. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
