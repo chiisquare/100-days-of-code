@@ -2,11 +2,10 @@
 
  <!--- EXAMPLE STRUCTURE
 ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
 
 **Link to work:** [Calculator App](http://www.example.com)
 
@@ -42,3 +41,9 @@
 **Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. Dad has generously purchased for me an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th!
 
 **Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span feels pulled in multiple directions though. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
+
+### Day 3: January 26, 2022
+
+**Today's Progress**: Downloaded Android Studio on my Surface. Looked up UI stuff.
+
+**Thoughts:** Pretty straightforward. I have high hopes for my course so far. I feel like I'm putting a lot of pressure on this being something I'll make money out of, but I just gotta stay in the moment and focus on taking it one step at a time.
