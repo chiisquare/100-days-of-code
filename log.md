@@ -42,7 +42,7 @@
 
 **Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span feels pulled in multiple directions though. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
 
-### Day 3: January 26, 2022
+### Day 3: January 26, 2022 Wednesday (skipped Tuesday)
 
 **Today's Progress**: Downloaded Android Studio on my Surface. Looked up UI stuff.
 
