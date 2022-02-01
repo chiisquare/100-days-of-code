@@ -47,3 +47,15 @@
 **Today's Progress**: Downloaded Android Studio on my Surface. Looked up UI stuff.
 
 **Thoughts:** Pretty straightforward. I have high hopes for my course so far. I feel like I'm putting a lot of pressure on this being something I'll make money out of, but I just gotta stay in the moment and focus on taking it one step at a time.
+
+### Day 4: January 27, 2022 Thursday
+
+*Today's Progress**: tried to get AVD (android virtual device) working, it's basically an emulator.
+
+**Thoughts:** slow progress. mostly worked on applying for jobs.
+
+### Day 5: January 31, 2022, Monday (skipped Friday, Saturday, and Sunday afaik... restart challenge?)
+
+**Today's Progress**: just did ~20 minutes of CSS on Free Code Camp.
+
+**Thoughts:**  I think I need to do things one at a time. Working on two languages at once is a lot for me right now.
