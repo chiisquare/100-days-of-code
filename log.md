@@ -56,6 +56,6 @@
 
 ### Day 5: January 31, 2022, Monday (skipped Friday, Saturday, and Sunday afaik... restart challenge?)
 
-**Today's Progress**: just did ~20 minutes of CSS on Free Code Camp.
+**Today's Progress**: just did ~20 minutes of CSS on Free Code Camp. Looked up requirements for being a Senior Engine Engineer/Programmer at MiHoYo.
 
 **Thoughts:**  I think I need to do things one at a time. Working on two languages at once is a lot for me right now.
