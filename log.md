@@ -18,7 +18,6 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -29,7 +28,6 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 --->
-
 ### Day 1: January 23, 2022, Sunday
 
 **Today's Progress**: Started FreeCodeCamp by learning basic HTML and HTML5.
@@ -58,4 +56,12 @@
 
 **Today's Progress**: just did ~20 minutes of CSS on Free Code Camp. Looked up requirements for being a Senior Engine Engineer/Programmer at MiHoYo.
 
-**Thoughts:**  I think I need to do things one at a time. Working on two languages at once is a lot for me right now.
+**Thoughts:** I think I need to do things one at a time. Working on two languages at once is a lot for me right now.
+
+RESTART (goal: get a job as a front-end developer by Feb. 2023)
+
+### Day 1: Feb. 3rd, 2022 Thursday
+
+**Today's Progress**: attempted to create my first ever android app (that simply says 'hello world' in kotlin), looked up what CSS was, practiced modifying margins and padding in an existing HTML document using CSS in FreeCodeCamp.org
+
+**Thoughts:** this first app didn't display at all in my AVD (android virtual device), throttling my progress in the udemy course. will post question.
