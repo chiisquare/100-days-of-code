@@ -68,9 +68,9 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 
 ### Day 2: Feb. 4th, 2022 Friday
 
-**Today's Progress**: completed the Basic CSS module of the Responsive Web Design Certification course on FreeCodeCamp (around 45% of it today) in roughly 2 hrs.
+**Today's Progress**: completed the Basic CSS module of the Responsive Web Design Certification course on FreeCodeCamp (around 45% of it today) in roughly 2 hrs using pomodoro technique.
 
-**Thoughts:** took many breaks learned and accomplished a lot. Towards the latter third of the module, the challenges started getting hard enough to where I had to sift through some older tutorials to refresh what I've learned about classes and IDs. I don't remember the challenges being this difficult in my 8th grade (~2008) web development class! The challenges felt gratifying and not too hard though. I'm so impressed with the organization of these modules, the concise and diverse resources available in the webpage for people who get stuck, and that it's all completely FREE! I will for sure plan on donating to the website once I'm employed again. My neck hurts now - most likely I'll change my set up such that my surface is elevated. But I'm feeling pumped to go at it again tomorrow!
+**Thoughts:** took many breaks but learned and accomplished a lot. Towards the latter third of the module, the challenges started getting hard enough to where I had to sift through some older tutorials to refresh what I've learned about classes and IDs. I don't remember the challenges being this difficult in my 8th grade (~2008) web development class! The challenges felt gratifying and not too hard though. I'm so impressed with the organization of these modules, the concise and diverse resources available in the webpage for people who get stuck, and that it's all completely FREE! I will for sure plan on donating to the website once I'm employed again. My neck hurts now - most likely I'll change my set up such that my surface is elevated. But I'm feeling pumped to go at it again tomorrow!
 
 **Notes on what I've learned:**
 
