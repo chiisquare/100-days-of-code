@@ -75,7 +75,7 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 **Notes on what I've learned:**
 
 - CSS override priorities: !important > inline style > id declarations > class declarations (if just conflicting class declarations, they are prioritized by order)
-- CSS is its own language and can be used alongside HTML or XHTML to create and design webpages.
+- CSS is its own language and can be used alongside HTML or XHTML to create and design webpages. "Advantages of CSS CSS saves time − You can write CSS once and then reuse same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many Web pages as you want."
 - hexcode and RGB values are two ways to represent colors.
 - CSS variables are a way to change many CSS style properties at once by changing only a single value (ex: --penguin-skin: gray;)
 - CSS variables can be inherited... by defining :root in the style section of a webpage. not entirely sure how this works tbh.
