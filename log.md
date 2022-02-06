@@ -1,11 +1,11 @@
 # Chi's First (Official) 100 Days Of Code - Log
 
  <!--- EXAMPLE STRUCTURE
-### Day 0: February 30, 2016 (Example 1)
+### Day 3: Feb. 5th, 2022 Saturday
 
-**Today's Progress**:
+**Today's Progress**: 
 
-**Thoughts:**
+**Thoughts:** 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
@@ -82,3 +82,15 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 - "The CSS Media Query gives you a way to apply CSS only when the browser and device environment matches a rule that you specify, for example "viewport is wider than 480 pixels". Media queries are a key part of responsive web design, as they allow you to create different layouts depending on the size of the viewport, but they can also be used to detect other things about the environment your site is running on, for example whether the user is using a touchscreen rather than a mouse."
 - #womenintech, #womenwhocode
 - learned about a free coding boot camp called "#100devs". super inspired by the community and availability of good quality and free resources that are out there. experiencing this encouraging atmosphere helps me stay motivated to pursue software development and programming after over a year of hesitance. joining #100daysofcode on twitter is a game-changer.
+
+### Day 3: Feb. 5th, 2022 Saturday
+
+**Today's Progress**: Maxed out three stats on LearntoCodeRPG before restarting. Spent about a good hour or so doing that.
+
+**Thoughts:** Feeling a bit frustrated and regretful that I was locked into ending the game and didn't have time to finish maxing out the other stats. I cheated a few times by looking up the answers as well. I am wondering how best to learn this information without having to just guess and remember it next time. Is there a place in freecodecamp where I can read about each language before taking the quiz? Going forward, I will save on a different slot before doing a significant action like apply for a job. Because once you apply for a job, you basically get locked into ending the game in a certain way. Save on another slot before you apply for that job.
+
+### Day 4: Feb. 6th, 2022 Sunday
+
+**Today's Progress**:
+
+**Thoughts:**
