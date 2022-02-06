@@ -91,6 +91,6 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 
 ### Day 4: Feb. 6th, 2022 Sunday
 
-**Today's Progress**:
+**Today's Progress**: spent roughly 3 hours maxing out all of my CS knowledge stats in Learn to Code RPG by freeCodeCamp! step 1 of the 2022 Become-a-Dev New Year's Challenge, complete!
 
-**Thoughts:**
+**Thoughts:** lol. i've been knocking the 30 minute rule out of the ballpark these past few days! often at the expense of another habit, but this is my main habit that i've chosen to implement. i had a fun time unlocking achievements, taking time to re-read what i first read several months ago in nov or dec 2021.... i had a much harder time getting a job in the game and began to have a good idea of how arduous and time-consuming the process was. i was surrounded by really kind and helpful people and the overall tone of the game was very encouraging and grounding. i have a better understanding now of git, linux, javascript, and sql. i also appreciated how difficult the "technical interview" questions were compared to my studies. and that the game will let you get accepted if your stats are above a certain threshold. unlocking different achievements and endings was also really fun too. it really stimulated the competitive and goal/achievement-oriented side of myself. it's funny how hard i went at this considering how i was encouraging myself to take it easy a few days ago. i felt really embarrassed about myself last night, had trouble sleeping, and just felt motivated to prove or compensate in some way. at least i achieved a goal i'd set out to do. 
