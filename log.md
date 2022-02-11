@@ -94,3 +94,15 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 **Today's Progress**: spent roughly 3 hours maxing out all of my CS knowledge stats in Learn to Code RPG by freeCodeCamp! step 1 of the 2022 Become-a-Dev New Year's Challenge, complete!
 
 **Thoughts:** lol. i've been knocking the 30 minute rule out of the ballpark these past few days! often at the expense of another habit, but this is my main habit that i've chosen to implement. i had a fun time unlocking achievements, taking time to re-read what i first read several months ago in nov or dec 2021.... i had a much harder time getting a job in the game and began to have a good idea of how arduous and time-consuming the process was. i was surrounded by really kind and helpful people and the overall tone of the game was very encouraging and grounding. i have a better understanding now of git, linux, javascript, and sql. i also appreciated how difficult the "technical interview" questions were compared to my studies. and that the game will let you get accepted if your stats are above a certain threshold. unlocking different achievements and endings was also really fun too. it really stimulated the competitive and goal/achievement-oriented side of myself. it's funny how hard i went at this considering how i was encouraging myself to take it easy a few days ago. i felt really embarrassed about myself last night, had trouble sleeping, and just felt motivated to prove or compensate in some way. at least i achieved a goal i'd set out to do. 
+
+### Day 5: Feb. 9th, 2022 Wednesday
+
+**Today's Progress**: took two days as a break to adjust to onboarding at a new job. these days were spent with me reading through game dev notes on Learn to Code RPG from freeCodeCamp in my spare time and starting to download the necessary software needed for the Relational Database Curriculum (also from fCC).
+
+**Thoughts:** I feel a little bit over my head.... I'm not entirely sure what languages like Bash are for, even after maxing out my states in the coding RPG. but that's what the Internet is for, amirite?
+
+### Day 6: Feb. 10th, 2022 Thursday
+
+**Today's Progress**: spent about an hour or so finishing the set up of the aforementioned software on my main computer and Surface before finally starting the tutorial. 
+
+**Thoughts:** Let me tell you, it was a RIDE trying to set the curriculum up these past few days! Having to use the git CMD terminal, remembering how to operate said terminal (when it was sort of assumed in the instructions), getting my Visual Studio Code to recognize that I've configured my Git account on my Git software by restarting the software... not getting it to work then... and then restarting the whole computer, which made it work. Lots of googling, asking my developer dad for help, and getting frustrated lol. Is this the software developing experience? Meanwhile, the actual tutorial itself was much more straightforward. Learned about Bash, Git (cursory level), JSON, Docker, and terminals. Feeling a little in over my head right now, but that's okay.
