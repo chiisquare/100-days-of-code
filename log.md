@@ -106,3 +106,39 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 **Today's Progress**: spent about an hour or so finishing the set up of the aforementioned software on my main computer and Surface before finally starting the tutorial. 
 
 **Thoughts:** Let me tell you, it was a RIDE trying to set the curriculum up these past few days! Having to use the git CMD terminal, remembering how to operate said terminal (when it was sort of assumed in the instructions), getting my Visual Studio Code to recognize that I've configured my Git account on my Git software by restarting the software... not getting it to work then... and then restarting the whole computer, which made it work. Lots of googling, asking my developer dad for help, and getting frustrated lol. Is this the software developing experience? Meanwhile, the actual tutorial itself was much more straightforward. Learned about Bash, Git (cursory level), JSON, Docker, and terminals. Feeling a little in over my head right now, but that's okay.
+
+### Day 7: Feb. 11th, 2022 Friday
+
+**Today's Progress**: spent ~1.5 hrs finishing the first tutorial from fCC's relational database course, where I practiced using Bash on Visual Studio Code to build a boilerplate. Wrote some Anki cards regarding Bash.
+
+**Thoughts:** I'm writing this three days later, so the details are a bit hazy. The boilerplate itself wasn't too difficult to build. A lot of it was confirming that my action actually worked. Feeling pretty productive.
+
+### Day 8: Feb. 12th, 2022 Saturday
+
+**Today's Progress**: booted up new tutorial on using SQL in PostgreSQL to create a Mario relational database.  
+
+**Thoughts:** spent maybe 15 minutes on this since I had plans this weekend to spend time with my s/o. uneventful day. didn't count this as its own day due to minimal work actually being done.
+
+### Day 8.5: Feb. 13th, 2022 Sunday
+
+**Today's Progress**: started on steps 1 and 2 in said SQL tutorial, but had trouble connecting to the server in both steps despite performing them correctly and attempting to restart the terminal and programs. needed to sleep early to leave for home the next day, so after about 20 minutes or so of troubleshooting, I decided to call it a day. 
+
+**Thoughts:** honestly was feeling quite frustrated that night. I can accept struggles on the coding itself, but when it has to do with mere set-up, I find it very irksome. I just feel like I'm wasting time at that point. Lol, is this simply a part of being a developer?
+
+### Day 9: Feb. 14th, 2022 Monday
+
+**Today's Progress**: spent 30 minutes getting the SQL tutorial to work (had to do some googling, I wasn't the only one encountering problems with getting the tutorial to work apparently. i'm grateful that others have already asked the same question and that the solutions worked for me). spent another 4 hours or so with intermittent breaks (pomodoros = 30 min, breaks being 7 min. or more) attempting to finish the tutorial in one go. was on the last step before realizing that I performed the full join wrongly by misidentifying my junction table. proceeded to feel something of a mental breakdown before posting a hail mary question on fCC forum and calling ita day.
+
+**Thoughts:** made a lot of progress, but my comprehension and retention of the actual material was definitely deteriorating. i look forward to combing through my notes and creating the anki cards tomorrow... maybe. if i can get myself to look at and attempt to fix the code. i'm half-resigned to the prospect of having to redo the entire tutorial in case it stops working tomorrow. this will sound dramatic, but i'm not sure i can bear to look at it now. my mind was giving me really intrusive thoughts and emotions about the weekend prior, which made my learning process that much more painful and difficult. went to bed feeling mildly anxious, ashamed, and drained.
+
+### Day 10: Feb. 15th, 2022 Tuesday
+
+**Today's Progress**: someone responded to my fCC forum question clarifying that I hadn't done anything permanent, with the SELECT * FROM command, I was simply manipulating the way I was viewing the tables. with that, I submitted the true answer and officially completed the SQL Mario Database tutorial. I condensed my SQL notes on a single Google doc for me to reference later when creating my Anki cards. For now, I will take a break since yesterday ended up being pretty emotionally wrought for me. Loaded up the Celestaial Bodies Database tutorial for tomorrow.
+
+**Thoughts:** Feeling relieved, grateful, and still a bit wiped from yesterday. I am usually pretty comfortable coding for awhile, but the pressure I was putting on myself yesterday, combined with having intrusive thoughts since I decided not to listen to music or meditate until much later made the process extremely difficult and painful for me. I followed a few new people on Twitter related to coding and supported some tweets that seemed to be less engaged with. I am now wondering if I can be somewhat invalidating in my responses sometimes. Again, may write Anki cards today, maybe not. Otherwise, I'm looking forward to coding again tomorrow.
+
+### Day 11: Feb. 16th, 2022 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
