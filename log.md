@@ -139,6 +139,8 @@ RESTART (goal: get a job as a front-end developer by Feb. 2023)
 
 ### Day 11: Feb. 16th, 2022 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: spent ~1.5 hrs writing Anki cards on SQL before creating a separate google doc containing the assignment parameters for my Celestial Bodies Database project!
 
-**Thoughts:** 
+**Thoughts:** felt some intial resistance towards writing anki cards, but as soon as i sat down, i felt okay. also unconditionally took breaks during my assigned time after a pomodoro of 30 min., regardless of how much i actually worked during the pomo. building the database itself will be unguided, but i have my notes and anki cards from before to reference in case i feel lost. i'm looking forward to the challenge! and hope to spend at least an **hour** everyday from now on regarding code so I make more meaningful progress. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1494072711563382794
