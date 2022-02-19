@@ -145,3 +145,19 @@
 **Thoughts:** felt some intial resistance towards writing anki cards, but as soon as i sat down, i felt okay. also unconditionally took breaks during my assigned time after a pomodoro of 30 min., regardless of how much i actually worked during the pomo. building the database itself will be unguided, but i have my notes and anki cards from before to reference in case i feel lost. i'm looking forward to the challenge! and hope to spend at least an **hour** everyday from now on regarding code so I make more meaningful progress. 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1494072711563382794
+
+### Day 12: Feb. 18th, 2022 Friday
+
+**Today's Progress**: actually started working on my celestial bodies database, attempted to save my work, posted a few questions on the fCC's thread for this curriculum, and took notes on the assignment rubric to make it a bit more condensed and understandable for me. 
+
+**Thoughts:** felt less anxiety about this assignment as I read through the rubric and worked on the opening steps. I discovered that there's a dedicated thread on the fCC forums for this curriculum, rejoiced, and proceeded to ask a few questions in the form of one lengthy post. bless the soul of the person(s) who helps me out. lol. i may actually draw out my tables to use as a visual reference for myself instead of having to read the list every time to determine my progress and direction. i'm looking forward to learning some SQL & astronomy here!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1494922534151720961
+
+### Day 13: Feb. 19th, 2022 Saturday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
