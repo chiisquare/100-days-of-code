@@ -155,3 +155,11 @@
 **Thoughts:** had to skip programming practice yesterday since i was feeling really uncomfortable and emotional about several people in my life and my place in their relationships... i felt better after getting some sleep and going out to climb with friends. only started drawing out galaxy table in my journal bc i want to make sure that i have data for all of my categories (bc i'm certain there are smaller galaxies or celestial bodies that may not even have as much data as other bodies)... correctness of data is not part of the rubric, but i don't want to Lie. posted another question on fCC. shot 3 more questions to my superior at work regarding leave and training tomorrow. i felt self-conscious at first for asking all these questions, but after reading the responses i got from work, i'm actually glad that past-me did that. this is Growth.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1495615786282586117
+
+### Day 14: Feb. 21st, 2022 Monday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
