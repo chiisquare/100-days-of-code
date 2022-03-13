@@ -148,18 +148,58 @@
 
 **Link to work:** https://twitter.com/chiisana2u/status/1494922534151720961
 
-### Day 13: Feb. ~~19~~20th, 2022 Sunday
+### Day 13: Feb. 20th, 2022 Sunday
 
 **Today's Progress**: i got an answer on fCC, wrote another question, organized my notes on the rubric into something with subheadings for each table, and then attempted to write out the data I plan to include in each table. i haven't even written more code yet.
 
-**Thoughts:** had to skip programming practice yesterday since i was feeling really uncomfortable and emotional about several people in my life and my place in their relationships... i felt better after getting some sleep and going out to climb with friends. only started drawing out galaxy table in my journal bc i want to make sure that i have data for all of my categories (bc i'm certain there are smaller galaxies or celestial bodies that may not even have as much data as other bodies)... correctness of data is not part of the rubric, but i don't want to Lie. posted another question on fCC. shot 3 more questions to my superior at work regarding leave and training tomorrow. i felt self-conscious at first for asking all these questions, but after reading the responses i got from work, i'm actually glad that past-me did that. this is Growth.
+**Thoughts:** had to skip programming practice yesterday since i was feeling really uncomfortable and emotional about several people in my life and my place in their relationships... i felt better after getting some sleep and going out to climb with friends. only started drawing out galaxy table in my journal bc i want to make sure that i have data for all of my categories (bc i'm certain there are smaller galaxies or celestial bodies that may not even have as much data as other bodies)... while correctness of data is not part of the rubric, i don't want to make numbers up. posted another question on fCC.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1495615786282586117
 
-### Day 14: Feb. 21st, 2022 Monday
+### Day 14: Feb. 25th, 2022 Friday
+
+**Today's Progress**: continued to look up data to fill my database with. reviewed my notes from the previous SQL module, particularly regarding data types.
+
+**Thoughts:** oops on skipping so many days in a row. Also, I'm writing this entry on 3/12/22, which was my 18th day of coding for this challenge. 4 days of coding in the span of 15 days... Job training has been more stressful than I bargained for.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1497402271579217922
+
+### Day 15: Feb. 26th, 2022 Saturday
+
+**Today's Progress**: started researching data for second table in celestial bodies database.
+
+**Thoughts:** re-examined the requirements and realized that i may have been overthinking things regarding foreign keys.... unsure. am impatient.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1497430528877903872
+
+### Day 16: Mar. 7th, 2022 Monday
+
+**Today's Progress**: ...didn't truly do coding lol, only thought about it and found an article that would guide me with making a wordle clone using basic HTML, CSS, JavaScript, and NPM!
+
+**Thoughts:** job training is finally easing up. I am so anxious that it's hard for me to do work outside of the shift.... current me (which is Mar. 12th chiisquare) is wondering if making time for yoga would have helped things... unsure.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1501019133260931074
+
+### Day 17: Mar. 10th, 2022 Thursday
+
+**Today's Progress**: started learning JavaScript through grasshopper, a free-to-use web and mobile application from Google that teaches people how to code! 
+
+**Thoughts:** grasshopper is such an elegant and visually pleasing application to use. It reminds me a lot of freecodeCamp, actually. I have also registered for Kick Start, a Google coding competition, as well as cs50 Puzzle Day 2022! It was actually my teammate for Puzzle Day was the one who recommended grasshopper to me. I am very grateful to them!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1502076488341934094
+
+### Day 18: Mar. 12th, 2022 Monday
+
+**Today's Progress**: finished the first Coding Fundamentals module in grasshopper and received my first coding-related certificate of completion! I've gotta admit, it feels really good.
+
+**Thoughts:** This module isn't difficult. In fact, I wonder if it's too easy. It was a good review of the basic concepts though while teaching me things about JavaScript. I feel like my many attempts to learn simple Python have benefited here. I'm looking forward to going deeper with grasshopper. Who knows? Maybe I'll use JavaScript for the coding competition!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1502784022090600450
+
+### Day 19: Mar. 13th, 2022 Sunday
 
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:**
