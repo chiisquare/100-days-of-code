@@ -203,3 +203,11 @@
 **Thoughts:** ...honestly I'm not entirely sure how much I've retained. I endeavored to list out the new topics I've learned so I can test my memory and look up what I don't understand. Also spent more time reading through the starter code (a.k.a. documentation?) before reading and following the instructions blindly, so I actually understand the code and what I'm doing to it. Installed the WakaTime chrome extension because I'm tired of it not logging my hours.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1503204192332230658
+
+### Day 20: Mar. 14th, 2022 Monday
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:**
