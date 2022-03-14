@@ -198,8 +198,8 @@
 
 ### Day 19: Mar. 13th, 2022 Sunday
 
-**Today's Progress**: 
+**Today's Progress**: began grasshopper's Fundamentals II module in earnest. Learned about .length, global and local variables, ternary operators, new ways to increment and decrement a value, print() vs console.log(), function declarations, return statement, .replace(oldPart, newPart), and recursion.
 
-**Thoughts:**
+**Thoughts:** ...honestly I'm not entirely sure how much I've retained. I endeavored to list out the new topics I've learned so I can test my memory and look up what I don't understand. Also spent more time reading through the starter code (a.k.a. documentation?) before reading and following the instructions blindly, so I actually understand the code and what I'm doing to it. Installed the WakaTime chrome extension because I'm tired of it not logging my hours.
 
-**Link to work:**
+**Link to work:** https://twitter.com/chiisana2u/status/1503204192332230658
