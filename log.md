@@ -39,7 +39,7 @@
 
 **Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. Dad has generously purchased for me an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th! (2/4/2022: have unenrolled since due to a desire to focus on easier languages or courses first. will definitely consider returning though)
 
-**Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span feels pulled in multiple directions though. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
+**Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span still feels pulled in multiple directions. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
 
 ### Day 3: January 26, 2022 Wednesday (skipped Tuesday)
 
@@ -206,8 +206,8 @@
 
 ### Day 20: Mar. 14th, 2022 Monday
 
-**Today's Progress**: 
+**Today's Progress**: Spent an hour going through recursion and more methods of JS via Google's grasshopper app!
 
-**Thoughts:**
+**Thoughts:** Was frequently distracted by the amazing music I was listening to, haha.... I feel like I'm on cloud 9 since having completed a long session at work today, and I feel like I've done a good job. We'll see if my superior gets tired of me asking questions lol.
 
-**Link to work:**
+**Link to work:** https://twitter.com/chiisana2u/status/1503567261176631301
