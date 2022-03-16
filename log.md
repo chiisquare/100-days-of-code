@@ -211,3 +211,11 @@
 **Thoughts:** Was frequently distracted by the amazing music I was listening to, haha.... I feel like I'm on cloud 9 since having completed a long session at work today, and I feel like I've done a good job. We'll see if my superior gets tired of me asking questions lol.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1503567261176631301
+
+### Day 21: Mar. 16th, 2022 Tuesday
+
+**Today's Progress**: completed Grasshopper's Fundamental II module and began Intro to Interviewing
+
+**Thoughts:** so far, so good. I am able to understand things a lot more quickly and easily when I'm emotionally sober lol. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1503911367002234888
