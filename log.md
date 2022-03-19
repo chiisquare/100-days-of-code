@@ -219,3 +219,11 @@
 **Thoughts:** so far, so good. I am able to understand things a lot more quickly and easily when I'm emotionally sober lol. 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1503911367002234888
+
+### Day 22: Mar. 18th, 2022 Thursday
+
+**Today's Progress**: asked questions about truthiness and falsiness in JS on Twitter on 3/16. found an article about said topic on 3/17. continued the Intro to Interviewing module in earnest today, attended a small, free Intro to Python workshop through the Healthy Gamer Discprd server.
+
+**Thoughts:** am slow-going when it comes to working on coding... would like to get to a point where I'm working on coding at least 2 hours a day, but babysteps. RSVP'd to a virtual Tech Talk through my local Women Who Code Meetup group! I'm really excited about it. I'm getting more involved with the coding community and feel myself becoming more motivated!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1505030664344768513
