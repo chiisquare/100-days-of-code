@@ -226,4 +226,12 @@
 
 **Thoughts:** am slow-going when it comes to working on coding... would like to get to a point where I'm working on coding at least 2 hours a day, but babysteps. RSVP'd to a virtual Tech Talk through my local Women Who Code Meetup group! I'm really excited about it. I'm getting more involved with the coding community and feel myself becoming more motivated!
 
-**Link to work:** https://twitter.com/chiisana2u/status/1505030664344768513
+**Link to work:** https://twitter.com/chiisana2u/status/1506010440152887300
+
+### Day 23: Mar. 20th, 2022 Sunday
+
+**Today's Progress**: continued the Intro to Interviewing module from Grasshopper. Learned about accessing strings similar to how we can index from arrays in JavaScript.
+
+**Thoughts:** very slow progress... was very distracted. Most likely unused to set up and prefer to be a lot cushier when working, hehe. I'm a spoiled worker!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1506011310751989760
