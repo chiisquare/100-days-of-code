@@ -243,3 +243,12 @@
 **Thoughts:** was feeling a bit fatigued and wanted to call it quits earlier to get a headstart on preparing for bed. I have a habit of staying up to try and "get ahead" at a certain skill or task with little to no result... so I'm just going to establish a curfew for myself. Sleep is essential!
 
 **Link to work:** https://twitter.com/chiisana2u/status/1506112742708625413
+
+### Day 25: Mar. 22nd, 2022 Tuesday
+
+**Today's Progress**: practiced using Vim via vim tutor (am 75% done with it) and looked up what Linux was.
+
+**Thoughts:** vim is pretty interesting so far! it is still unclear to me how and when I will use vim, but I'm happy I get to learn something that's so popular and important. May touch JavaScript so I don't lose my streak on Grasshopper.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1506450755930271755
+
