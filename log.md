@@ -232,6 +232,14 @@
 
 **Today's Progress**: continued the Intro to Interviewing module from Grasshopper. Learned about accessing strings similar to how we can index from arrays in JavaScript.
 
-**Thoughts:** very slow progress... was very distracted. Most likely unused to set up and prefer to be a lot cushier when working, hehe. I'm a spoiled worker!
+**Thoughts:** very slow progress... was very distracted. Most likely unused to the set up at my loved one's place. I'm a spoiled worker!
 
 **Link to work:** https://twitter.com/chiisana2u/status/1506011310751989760
+
+### Day 24: Mar. 21st, 2022 Monday
+
+**Today's Progress**: started reading "How to Learn Programming" article on fCC (https://www.freecodecamp.org/news/how-to-learn-programming/amp/), downloaded Vim, and learned how to add properties to an object using bracket notation in JavaScript
+
+**Thoughts:** was feeling a bit fatigued and wanted to call it quits earlier to get a headstart on preparing for bed. I have a habit of staying up to try and "get ahead" at a certain skill or task with little to no result... so I'm just going to establish a curfew for myself. Sleep is essential!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1506112742708625413
