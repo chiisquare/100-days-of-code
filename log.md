@@ -248,7 +248,23 @@
 
 **Today's Progress**: practiced using Vim via vim tutor (am 75% done with it) and looked up what Linux was.
 
-**Thoughts:** vim is pretty interesting so far! it is still unclear to me how and when I will use vim, but I'm happy I get to learn something that's so popular and important. May touch JavaScript so I don't lose my streak on Grasshopper.
+**Thoughts:** vim is pretty interesting so far! it is still unclear to me how and when I will use vim, but I'm happy I get to learn something that's so popular and important. May touch JavaScript so I don't lose my streak on Grasshopper. I was supposed to attend a PyLadies event today, but when I tried to participate by joining the call, no one else would let me in the room... either the link was faulty, or the event fell through. Next time!
 
 **Link to work:** https://twitter.com/chiisana2u/status/1506450755930271755
+
+### Day 26: Mar. 24th, 2022 Thursday
+
+**Today's Progress**: finished vim tutor! 
+
+**Thoughts:** the last 25% was considerably less straightforward than the previous steps... 7.2 specifically suddenly seemed like it was missing a lot more explanation for me to create my vimrc file, but after some tinkering and consulting with my programming dad, it worked out! this in itself took 1 hr for me, lol. i feel a bit embarrassed since the article that suggested vim tutor to me estimated it would take around 30 minutes (as opposed to 2 hours), but you know what? it's cool. i'm a slow learner, i have accepted this about myself.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1507090477778145284
+
+### Day 27: Mar. 26th, 2022 Saturday
+
+**Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper.
+
+**Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, I am suddenly buffeted with several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or learn a new language (but frankly, I just wanted to watch Vanitas no Carte). While these many interests aren't bad, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1507930161366417411
 
