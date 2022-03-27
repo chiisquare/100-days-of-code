@@ -264,7 +264,7 @@
 
 **Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper.
 
-**Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, I am suddenly buffeted with several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or learn a new language (but frankly, I just wanted to watch Vanitas no Carte). While these many interests aren't bad, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
+**Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, I am suddenly buffeted with several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or studying a new language (to be completely frank though, I just wanted to continue watching Vanitas no Carte). While these other interests are good, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1507930161366417411
 
