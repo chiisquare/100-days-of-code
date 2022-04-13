@@ -1,4 +1,4 @@
-# Chi's First (Official) 100 Days Of Code - Log
+# chii's First (Official) 100 Days Of Code - Log
 
  <!--- EXAMPLE STRUCTURE
 ### Day 3: Feb. 5th, 2022 Saturday
@@ -49,7 +49,7 @@
 
 ### Day 4: January 27, 2022 Thursday
 
-*Today's Progress**: tried to get AVD (android virtual device) working, it's basically an emulator.
+*Today's Progress*: tried to get AVD (android virtual device) working, it's basically an emulator.
 
 **Thoughts:** slow progress. mostly worked on applying for jobs.
 
@@ -267,4 +267,60 @@
 **Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, I am suddenly buffeted with several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or studying a new language (to be completely frank though, I just wanted to continue watching Vanitas no Carte). While these other interests are good, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1507930161366417411
+
+### Day 28: Mar. 27th, 2022 Sunday
+
+**Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper.
+
+**Thoughts:** can't remember what I learned tbh, as I write this on Apr. 12th. shame on me.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1508297992914313216
+
+### Day 29: Mar. 29th, 2022 Tuesday
+
+**Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper.
+
+**Thoughts:** finally entered the last submodule on the Interviewing module! am excited to learn how to break down solving a former Google interview question.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1508993943681257473
+
+### Day 30: Apr. 1st, 2022 Friday
+
+**Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper. cs50x's Puzzle Day 2022 has begun!
+
+**Thoughts:** not sure what I learned here, but I think I was learning how to build each of the specific functions necessary to solve the question after creating a mental model of the problem and its solution (i.e. abstraction). am struggling with retention and independent regurgitation! meanwhile
+
+**Link to work:** https://twitter.com/chiisana2u/status/1510109048758284291
+
+### Day 31: Apr. 8th, 2022 Friday (late at night)
+
+**Today's Progress**: (prior to today) completed cs50x's Puzzle Day 2022 with flying colors. fell ill, then continued the Intro to Interviewing module using JavaScript on Grasshopper after recovering. 
+
+**Thoughts:** am struggling with certain quiz questions and why certain answers aren't as valid as the best answer. I am happy that I included others in my journey though; it was fun, heartwarming, and inspiring to receive generous help from people more experienced than me. thanks, all!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1512656883429093378
+
+### Day 32: Apr. 9th, 2022 Saturday
+
+**Today's Progress**: finally completed the Intro to Interviewing module on Grasshopper. at long last.
+
+**Thoughts:** this session went more smoothly than the prior ones. I think the questions that were asked were a lot simpler and straightforward than the ones prior. I also was less emotionally invested in the music I was listening to and was probably more well-rested overall, haha.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1512977890975133700
+
+### Day 33: Apr. 11th, 2022 Monday
+
+**Today's Progress**: attended a remote Women Who Code hangout event for my city! could only feel comfortable with staying there partially, but I felt humbled and inspired to redouble my efforts into learning code.
+
+**Thoughts:** Changed plans from working on the wordle clone (which I abandoned after having difficulty installing the current version of npm with node.js) to working on The Odin Project, which is deemed to be more useful and educational than freeCodeCamp (I still enjoy the latter, but I feel that TOP teaches more necessary real world skills earlier on). I may work on both together, with a primary focus on TOP.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1514073213193662464
+
+### Day 34: Apr. 12th, 2022 Tuesday
+
+**Today's Progress**: read an article recommended by an introductory TOP lesson on procrastination and felt both called out and seen. drew out an Eisenhower matrix sorting out the ways I want to spend my time. resolved to meditate everyday for at least 15 minutes to encourage self-awareness and intentionality..
+
+**Thoughts:** not exactly coding-related, but I think said article has forced me to reevaluate how I spend my time from a more honest and empathetic point of view... I feel like I've let my Instant Gratification Monkey run most of my life! It is a sobering realization. In a way though, it is a cognitively "simpler" way to live but it comes at a high cost: physically, emotionally, financially, and spiritually. I feel that I am reminded of the significance of regular meditation, which helps us become more aware (and neutral) of the impulse to avoid tedious yet significant work. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1514076496360620036
 
