@@ -324,3 +324,10 @@
 
 **Link to work:** https://twitter.com/chiisana2u/status/1514076496360620036
 
+### Day 35: Apr. 14th, 2022 Thursday
+
+**Today's Progress**: started the "Learning How to Learn" course on Coursera yesterday and really enjoyed it.... a lot of the practical tips were said to me several times before, but not on a neuroscience level. I really appreciated learning about the importance of focused and diffused modes of thinking. Today on LH2L, I listened to more interviews from people in different disciplines share their thoughts and approaches on learning. I then spent about an hour reading about I can ask for help or troubleshoot effectively on The Odin Project, and then had the opportunity to speak with UI/UX designer. 
+
+**Thoughts:** I enjoyed the LH2L course so far still. I feel a bit guilty for this sidequest since I'm not actively coding, but I think it's important to take a step back and look at the bigger picture: what is my why? what coding languages do job opportunities at my preferred city of residence tend to require? how am I approaching learning at this time that is actually holding me back from meaningful achievement? I then felt a bit impatient with the TOP submodule because, although it was easy, I was anxious to just start learning how to code. Speaking with the UI/UX designer was really humbling... I appreciate the job more deeply as a result. I feel unsure of my ability to connect with people in the capacity that will be required for me in that job, but I do feel encouraged to learn more about other tech jobs, so I know for sure that I'm not just defaulting to software development because it's the cool thing to do.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1514800031529799689
