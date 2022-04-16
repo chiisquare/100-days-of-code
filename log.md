@@ -331,3 +331,11 @@
 **Thoughts:** I enjoyed the LH2L course so far still. I feel a bit guilty for this sidequest since I'm not actively coding, but I think it's important to take a step back and look at the bigger picture: what is my why? what coding languages do job opportunities at my preferred city of residence tend to require? how am I approaching learning at this time that is actually holding me back from meaningful achievement? I then felt a bit impatient with the TOP submodule because, although it was easy, I was anxious to just start learning how to code. Speaking with the UI/UX designer was really humbling... I appreciate the job more deeply as a result. I feel unsure of my ability to connect with people in the capacity that will be required for me in that job, but I do feel encouraged to learn more about other tech jobs, so I know for sure that I'm not just defaulting to software development because it's the cool thing to do.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1514800031529799689
+
+### Day 36: Apr. 15th, 2022 Friday
+
+**Today's Progress**: finished the assignment on asking questions well and best practices when dealing with help vampires on The Odin Project. Linked my github account to my Discord account (we're getting sErIoUs up here...!) and then read some more guidelines on how to answer other people's questions well. This all took about 50 minutes for me, no breaks (other than when I was zoning out while fidgeting with a Rubik's cube).
+
+**Thoughts:** lots of reading (subjectively speaking). I'm not used to reading a single thing for a long period of time. Plus I'm doing this late at night, when I'm relatively sleepy and frankly kind of mad/anxious at myself for waiting this long to work when I could have been productive for a longer period of time. Will try to sleep early and maybe get up at a reasonable hour in the morning to get some learning out of the way?
+
+**Link to work:** https://twitter.com/chiisana2u/status/1515183008470417411
