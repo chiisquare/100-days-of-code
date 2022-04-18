@@ -339,3 +339,11 @@
 **Thoughts:** lots of reading (subjectively speaking). I'm not used to reading a single thing for a long period of time. Plus I'm doing this late at night, when I'm relatively sleepy and frankly kind of mad/anxious at myself for waiting this long to work when I could have been productive for a longer period of time. Will try to sleep early and maybe get up at a reasonable hour in the morning to get some learning out of the way?
 
 **Link to work:** https://twitter.com/chiisana2u/status/1515183008470417411
+
+### Day 37: Apr. 17th, 2022 Sunday
+
+**Today's Progress**: Happy Easter 2022! Completed half of the TOP assignment on learning how the web functions. Also learned more about how DuckDuckGo, a search engine and mobile web browser, compares with other search engines like Google, VPNs, incognito browsing, and if SEO practices would change based on which search engine you're using (spoiler alert: it probably does, but since so many people use Google, which also has very accurate search engine indices and algorithms, I surmise that it's usually more valuable to cater SEO to Google). 
+
+**Thoughts:** Spent about 3 pomodoros (25 min. each) on this. I started this late evening, actually skipped dinner because I was so engrossed, and found myself getting carried away with my thoughts, often. While not much was accomplished, I find myself feeling very curious and thoughtful about the topics I was reading since I am was and am close to people who are very concerned about their online privacy. While I deprived myself of sleep last night, forcing myself to take a 2-3 hour nap after lunch really helped me feel more energized and composed. I have a day off from work tomorrow and plan to spend a portion of my morning at a local cafe to see how a change in scenery will serve me. It will be my reward for sleeping and rising earlier!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1515888155823853579
