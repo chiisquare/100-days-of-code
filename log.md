@@ -347,3 +347,61 @@
 **Thoughts:** Spent about 3 pomodoros (25 min. each) on this. I started this late evening, actually skipped dinner because I was so engrossed, and found myself getting carried away with my thoughts, often. While not much was accomplished, I find myself feeling very curious and thoughtful about the topics I was reading since I am was and am close to people who are very concerned about their online privacy. While I deprived myself of sleep last night, forcing myself to take a 2-3 hour nap after lunch really helped me feel more energized and composed. I have a day off from work tomorrow and plan to spend a portion of my morning at a local cafe to see how a change in scenery will serve me. It will be my reward for sleeping and rising earlier!
 
 **Link to work:** https://twitter.com/chiisana2u/status/1515888155823853579
+
+### Day 38: Apr. 19th, 2022 Tuesday
+
+**Today's Progress**: learned more about how the web works and started on week 2 of #LH2L. 
+
+**Thoughts:** Taking things nice and slowly. Not really much to say here. I'm enjoying learning more about how the web works though. It feels empowering to learn more about tools that I use so frequently.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1516620530715140096
+
+### Day 39: Apr. 20th, 2022 Wednesday
+
+**Today's Progress**: preparing my Surface to install Ubuntu as a dual-boot.
+
+**Thoughts:** The instructions are quite straightforward, but I keep running into hurdles and various contradicting guides that force me to backtrack and re-examine some things... I racked my brains over what partition file system I should use since my USB was using a different type than my Surface was (in the end, I just needed to choose the file system that my Surface was on, which is the system which will run my OS), had to disable Secure Boot on my Surface, then Bitlocker, and THEN clear some files from my Surface to ensure that I had plenty of space to do all that I wanted to do with Ubuntu... I think tomorrow will be the trick!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1516972081455550465
+
+### Day 40: Apr. 21st, 2022 Thursday
+
+**Today's Progress**: FINALLY INSTALLED UBUNTU! PHEW-EE!!!!!
+
+**Thoughts:** This was a PROCESS. I was feeling so stressed when I had to spend time shrinking/resizing a certain amount of space on my hard drive using AOMI to set aside just for Ubuntu as I was following this guide on Medium, but things got complicated quickly afterwards and I ended up following the instructions incorrectly by just letting the install wizard set up the file partiions for me instead of setting them up myself, haha. Not to mention the nightmare that was me trying to move some files away from my Surface; there was a HUGE amount of files that were projected to take 10+ hours to move to my external storage device, but they were actually just from my OneDrive.... lol. Also, I was today years old when I learned that if you put things in your Recycle Bin, they don't actually get cleared out until you specifically empty your Bin... My Surface is 10+ GB freer now, homies. 
+
+Also spent hella time trying to figure out how to get my monitors to display properly. My Surface runs slower when I use fractional scaling, but it's okay. I can accept this fact as long as things aren't freakishly magnified or minified on either monitor. Thank you, Google and peeps. After much time and agonizing... I am now part of the Ubuntu family. <3
+
+**Link to work:** https://twitter.com/chiisana2u/status/1517356165662973953
+
+### Day 41: Apr. 24th, 2022 Sunday
+
+**Today's Progress**: spent two days installing VSCode, learning about the CLI, and setting up Git. 
+
+**Thoughts:** keeping things low-key and chill. Also, I suddenly remember that I have an embroidery project I'd like to finish... this is what happens when I don't time block!!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1518399325239394310
+
+### Day 42: Apr. 25th, 2022 Tuesday
+
+**Today's Progress**: learned more about Git and GitHub. Spent some time watching videos from week 2 on LH2L.
+
+**Thoughts:** Took an incredibly refreshing walk earlier today and felt energized to learn. I'm also making myself take more breaks as I use pomodoro when I used to skip them.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1519144257579372545
+
+### Day 43: Apr. 26th, 2022 Wednesday
+
+**Today's Progress**:  practiced basic Git commands as well as the two-step commit process. Created my first repo. 🙂 Was introduced to HTML and CSS. Began making an HTML boilerplate.
+
+**Thoughts:** Creating my first repo was super fun! I finally understand the crux of what's happening when I use Git and GitHub now... it feels like I've unlocked a part of my programming world map to explore. Now, when I see people mention these keywords in the tech part of social media, I feel less intimidated and out-of-my-depth. I feel motivated to continue! (In other news, I've been finding myself becoming less attentive during work and nearly overslept for my shift today! I have printed out a two week sleep diary to really get a handle on my habits. And with that, I will stop for today and endeavor to finish my embroidery project!)
+
+**Link to work:** https://twitter.com/chiisana2u/status/1519485485575544835
+
+### Day 44: 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
