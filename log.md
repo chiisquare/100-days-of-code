@@ -448,11 +448,11 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 ### Day 50: May 11th, 2022 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Completed and pushed my first true project onto GitHub. I am feeling over the moon right now. 
 
-**Thoughts:** 
+**Thoughts:** This took maybe 3-4 hours for me, maybe more as I was trying to make this as flawless as possible. It is not a complicated project as it is simply an HTML page that links to three separate pages, but I really found myself confused on how to commit messages on VSC initially since I forgot that I had already set that connection up as well as getting invested in the descriptions for each recipe. I am still unsure how to write multiline Git commit messages. It also took me a strange amount of time getting my HTML link to display for users to return to the home page without having to hit the back button, but I am really happy and proud of my result, even after looking at other people's work. I worked hard on tihs project, learned a lot, and perhaps most of all, had fun. All in all, this was a momentous way to complete my halfway point for this coding challenge!
 
-**Link to work:** https://twitter.com/chiisana2u/status/1524609606823157764
+**Link to work:** https://github.com/chiisquare/odin-recipes
 
 ### Day 51: 
 
