@@ -430,31 +430,31 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1523510837897572352
 
-### Day 48: 
+### Day 48: May 9th, 2022 Monday
+
+**Today's Progress**: learned how to insert images as well as alt attributes, file organization, and practiced w/ relative links.
+
+**Thoughts:** Was inadvertently tested on moving files across cousin folders w/ CLI. I am now two assignments away from working on my first project in #TheOdinProject!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1523843851491938304
+
+### Day 49: May 10th, 2022 Tuesday
+
+**Today's Progress**: learned some best practices on writing effective Git commit messages. 
+
+**Thoughts:** Still unsure how to write multi-line Git commit messages, but... tomorrow, I will embark on my first project that I will upload to my GitHub. I'm so excited!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1524231625571291136
+
+### Day 50: May 11th, 2022 Wednesday
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1524609606823157764
 
-### Day 49:
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-### Day 50: 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:**
-
-### Day 50: 
+### Day 51: 
 
 **Today's Progress**: 
 
