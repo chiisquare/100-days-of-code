@@ -398,9 +398,65 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1519485485575544835
 
-### Day 44: 
+### Day 44: May 4th, 2022 Wednesday
 
-**Today's Progress**:  
+**Today's Progress**:  practiced building my HTML boilerplate from memory and learned from the LH2L MOOC about about more efficient ways to ingrain a concept into memory.
+
+**Thoughts:** am mostly focusing on the MOOC. the HTML assignment was pretty straightforward.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1522044685056974848
+
+### Day 45: May 5th, 2022 Thursday
+
+**Today's Progress**: spent time learning more basic HTML elements and completed week 3 of #LH2L. I am almost done with the latter course, actually, and am looking forward to starting the related, more career-oriented course on Coursera soon! I wish I had done LH2L sooner!
+
+**Thoughts:** ran into an issue where I could not modify my files after opening them on VSC and discovered with the help of a friend that I may have enabled Vim mode by accident. I have disabled the associated extension and can now use VSC normally!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1522439645019127811
+
+### Day 46: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 47: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 48: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 49:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 50: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 50: 
+
+**Today's Progress**: 
 
 **Thoughts:** 
 
