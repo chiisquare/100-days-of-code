@@ -414,21 +414,21 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1522439645019127811
 
-### Day 46: 
+### Day 46: May 6th, 2022 Friday
 
-**Today's Progress**: 
+**Today's Progress**: made a simple HTML list within a pomodoro. Tomorrow I will learn to create HTML links and insert images.
 
-**Thoughts:** 
+**Thoughts:** Took my sweet time doing this, but I had fun. Took a moment for me to recall how to make lists.
 
-**Link to work:** 
+**Link to work:** https://pbs.twimg.com/media/FS0jiOVXoAA8hb9?format=jpg&name=large
 
-### Day 47: 
+### Day 47: May 8th, 2022 Sunday
 
-**Today's Progress**: 
+**Today's Progress**: began learning about absolute and relative HTML links and started the MindShift MOOC.
 
-**Thoughts:** 
+**Thoughts:** Not much was achieved this past weekend due to personal life updates, but I look forward to doubling down these next several weeks! Gotta stay healthy.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1523510837897572352
 
 ### Day 48: 
 
