@@ -456,8 +456,24 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 ### Day 51: May 15th, 2022 Sunday
 
-**Today's Progress**: 
+**Today's Progress**: I read about basic CSS concepts from #TheOdinProject such as class and ID attributes as well as different types of selectors and how they can be utilized.
 
-**Thoughts:** 
+**Thoughts:** losing steam but I'm back on track for now!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1527104003393323008?t=xBwVgCSKNBJ2UMBPNPGawQ&s=19
+
+### Day 52: May 23rd, 2022 Monday
+
+**Today's Progress**: I read more about basic CSS and started learning about the cascade. I'm still not totally sure what that is...
+
+**Thoughts:** n/a
+
+**Link to work:** https://twitter.com/chiisana2u/status/1528589179759763457?t=zrtMAwYEh38u5t4_g7jnlQ&s=19
+
+### Day 53: July 20th, 2022 Wednesday
+
+**Today's Progress**: Read several pages of Code Simplicity by @mkanat for an hour.
+
+**Thoughts:** On vacation with no laptop. Just returned to the world of studying after nearly two months of break. Was busy packing and coordinating my leave from my job at the time.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1528589179759763457?t=7IneJYg09eqfFhUzDBVCnQ&s=19
