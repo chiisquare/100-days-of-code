@@ -474,6 +474,14 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Today's Progress**: Read several pages of Code Simplicity by @mkanat for an hour.
 
-**Thoughts:** On vacation with no laptop. Just returned to the world of studying after nearly two months of break. Was busy packing and coordinating my leave from my job at the time.
+**Thoughts:** On vacation overseas with no laptop. Just returned to the world of studying after nearly two months of break... ish. I was busy packing for the trip and coordinating my leave from my job during my hiatus. Will try to make time to read further during my trip overseas, but no promises! here
 
 **Link to work:** https://twitter.com/chiisana2u/status/1528589179759763457?t=7IneJYg09eqfFhUzDBVCnQ&s=19
+
+### Day 54: August 3rd, 2022 Wednesday
+
+**Today's Progress**: Spent approximately 100 minutes reading the entire page on CSS fundamentals from The Odin Project.
+
+**Thoughts:** While this took some considerable effort to get started on and to digest, this was a much smoother work period overall than the multiple attempts I took prior to taking my trip. I think the combination of (1) being unemployed, (2) having taken an extended break beforehand, and (3) working from a comfortable, private place provided me the mental calm and clarity to adequately understand and finish reading this lesson in one day. I am unsure how productive I will be in the coming days, but I aim to at least spend an hour each day... We will see how that goes. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1554954413713899521
