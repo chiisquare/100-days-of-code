@@ -485,3 +485,27 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 **Thoughts:** While this took some considerable effort to get started on and to digest, this was a much smoother work period overall than the multiple attempts I took prior to taking my trip. I think the combination of (1) being unemployed, (2) having taken an extended break beforehand, and (3) working from a comfortable, private place provided me the mental calm and clarity to adequately understand and finish reading this lesson in one day. I am unsure how productive I will be in the coming days, but I aim to at least spend an hour each day... We will see how that goes. 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1554954413713899521
+
+### Day 55: August 9th, 2022 Tuesday
+
+**Today's Progress**: Completed all of the exercises and the knowledge check from the beefy CSS Foundations lesson from TOP in ~2 hrs.
+
+**Thoughts:** Made myself review some terminal and git commands in the midst of working on these exercises. This assignment was fun and straightforward.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1557113211110957066
+
+### Day 56: August 11th, 2022 Thursday
+
+**Today's Progress:** Familiarized myself with Chrome Dev Tools by inspecting several elements in a DOM and read more about the cascade of CSS.
+
+**Thoughts:** Studied with a friend and was actually productive. Also, this lesson is surprisingly more time-consuming than I had thought it would be. Perhaps I am overbooking myself this week. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1557485320001699848
+
+### Day 57: August 12th, 2022 Friday
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
