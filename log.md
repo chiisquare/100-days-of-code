@@ -502,9 +502,33 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1557485320001699848
 
-### Day 57: August 12th, 2022 Friday
+### Day 57: August 16th, 2022 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** finished reading the MDN web doc page on the CSS box model.
+
+**Thoughts:** was struggling to keep my mind focused on the topic, but found more improvement after consuming some caffeine and jotting down some key ideas as i was reading. <3
+
+**Link to work:** https://twitter.com/chiisana2u/status/1559653360252452865
+
+### Day 58: August 27th, 2022 Saturday
+
+**Today's Progress:** finished the entire TOP page (including assignment and knowledge check) on the CSS box model!!!!!!!!!!!!!!!
+
+**Thoughts:** I fought through a sleep-deprived mind to study with my friend at the local coffee shop, and the whole session ended up being much more enjoyable and productive than I had anticipated. so thankful for my IRL friends!
+
+**Link to work:** https://twitter.com/chiisana2u/status/1564019477326471169
+
+### Day 59: August 30th, 2022 Tuesday
+
+**Today's Progress:** Began learning about "normal flow" in CSS layouts after going slightly more in-depth regarding block vs. inline vs. inline-block elements.
+
+**Thoughts:** Had very poor sleep the night prior and was battling a headache, but felt significantly better after doing a ten minute yoga session with Adriene for beginners and showering. my concentration and calm aren't optimal right now, but I'm proud of myself for doing the most of what I could while respecting my limits.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1564807597106102272
+
+### Day 60:
+
+**Today's Progress:** 
 
 **Thoughts:** 
 
