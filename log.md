@@ -526,6 +526,14 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1564807597106102272
 
+### Day 60: September 1st, 2022 Thursday
+
+**Today's Progress:** Finished reading the MDN doc on normal flow, the w3 article on inline vs. block elements, and digitalocean's visual guide to differentiating between inline-block elements vs. inline elements or even just block!
+
+**Thoughts:** Took around 45 minutes to complete after like a 30 minute break in-between lol. I am very sleepy right now. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1565526067288350724
+
 ### Day 60:
 
 **Today's Progress:** 
