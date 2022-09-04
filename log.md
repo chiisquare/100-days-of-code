@@ -534,10 +534,18 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1565526067288350724
 
-### Day 60:
+### Day 61: September 2nd, 2022 Friday 
+
+**Today's Progress:** Completed 1 out of 2 exercises on modifying CSS margins and padding while studying with friends.
+
+**Thoughts:** Had a fun time studying with friends but found myself getting increasingly frustrated with using my Surface's trackpad to look between different windows or Chrome tabs to complete the exercise. I have gotten so used to having two monitors and a separate mouse while using my Surface! Hopefully by bringing my own mouse, I will have an easier time navigating my Surface.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1566528844558991362
+
+### Day 62: 
 
 **Today's Progress:** 
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:** 
+**Link to work:**
