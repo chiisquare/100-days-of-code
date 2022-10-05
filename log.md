@@ -544,8 +544,8 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 ### Day 62: 
 
-**Today's Progress:** 
+**Today's Progress:** Spent 50 minutes completing the Computer Basics lesson from TOP's Foundation course.
 
-**Thoughts:**
+**Thoughts:** Very straightforward, but it was a valuable review.
 
-**Link to work:**
+**Link to work:** https://twitter.com/chiisana2u/status/1577490434300948480
