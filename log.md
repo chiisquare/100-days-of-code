@@ -542,10 +542,18 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1566528844558991362
 
-### Day 62: 
+### Day 62: October 4th, 2022 Tuesday
 
 **Today's Progress:** Spent 50 minutes completing the Computer Basics lesson from TOP's Foundation course.
 
 **Thoughts:** Very straightforward, but it was a valuable review.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1577490434300948480
+
+### Day 63: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
