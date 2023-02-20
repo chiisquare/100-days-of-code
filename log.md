@@ -550,9 +550,17 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1577490434300948480
 
-### Day 63: 
+### Day 63: February 19th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** resumed this challenge for the umpteenth time! it seems that as my sleep schedule and sense of purpose declines, my desire to work towards something increases.... and for now, I have rechosen code again. I am working through freecodecamp's (New) Responsive Web Design certification and have read more of @ossia's book on learning to code and becoming a developer. I have made my fCC profile public,
+
+**Thoughts:** I wish the book's background has a dark mode setting to make it easier on the eyes while reading. The new layout for the responsive web design certification is even more fluid than before somehow. I have a burgeoning belly. I wish I had my mouse with me as I work on my Microsoft Surface rather than this touchpad. It is late, and I feel sleepy and yet not sleepy at the same time. Very distracted.
+
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-9
+
+### Day 64:
+
+**Today's Progress:** 
 
 **Thoughts:** 
 
