@@ -558,10 +558,26 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-9
 
-### Day 64:
+### Day 64: February 20th, 2023 Monday
 
-**Today's Progress:** 
+**Today's Progress:** read more of @ossia's book on tips for breaking into tech as a self-taught software engineer.
+
+**Thoughts:** too tired and sleepy to actually learn to code. i was literally reading as much as i could in my bed. i really wish fCC had a dark mode for this part of the site....
+
+**Link to work:** https://www.freecodecamp.org/news/learn-to-code-book/
+
+### Day 65: February 21st, 2023 Tuesday
+
+**Today's Progress:** made headway on my HTML cat photo app in fCC's newly revamped Responsive Web Design certification course
+
+**Thoughts:** pretty straightforward stuff. got war flashbacks when I saw the term "inline elements." CSS.....
+
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-45
+
+### Day 66:
+
+**Today's Progress:**
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:**
