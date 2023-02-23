@@ -574,10 +574,18 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-45
 
-### Day 66:
+### Day 66: February 22nd, 2023 Wednesday
+
+**Today's Progress:** completed my HTML cat photo app using fCC's new tutorial in two pomodoros (about one hour)
+
+**Thoughts:** I am appreciating the greater inclusion of CSS ideas in this tutorial. It feels very efficient and not overwhelming. I'm also glad that I finished this tutorial relatively quickly. Any slower, and I would have begun to forget essential, basic things.
+
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1
+
+### Day 67: 
 
 **Today's Progress:**
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:**
+**Link to work:** 
