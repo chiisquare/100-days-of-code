@@ -582,10 +582,18 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1
 
-### Day 67: 
+### Day 67: February 23rd, 2023 Thursday
 
-**Today's Progress:**
+**Today's Progress:** began learning basic CSS to build a cafe menu
 
-**Thoughts:**
+**Thoughts:** really impressed with how well they've integrated basic concepts of CSS. i feel like TOP tends to information frontload first before you do stuff, but here, they minimize the overload by having you use bits of information as you go. things come to me more seamlessly as a result, and i'm spending less time staring at the screen, trying to organize the information in a way that makes sense to me and will stick in my brain.
+
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-39
+
+### Day 68:
+
+**Today's Progress:** 
+
+**Thoughts:** 
 
 **Link to work:** 
