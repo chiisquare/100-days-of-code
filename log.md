@@ -597,3 +597,11 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 **Thoughts:** this pomodoro took me forever to finish as i felt more inclined to reach out to my sister(s), etc. and dwell about future purchases and music. i think i just need a nap at this point.
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-74
+
+### Day 70:
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** 
