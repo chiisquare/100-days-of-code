@@ -598,10 +598,248 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-74
 
-### Day 70:
+### Day 70: March 5th, 2023 Sunday
 
-**Today's Progress:** 
+**Today's Progress:** learned more about using colors via CSS with fCC's colored markers tutorial
+
+**Thoughts:** pretty straightforward stuff. color theory is interesting. am wondering what I should build as following a tutorial isn't exactly striking inspiration in me. mainly though, i am content that i have returned to learning coding again. suffering or the desire to prevent future suffering seems to be the best motivation for me, haha. i have been wondering a lot what my purpose is in life....
+
+**Link to work:** https://twitter.com/chiisana2u/status/1632485311027503109
+
+### Day 71: 
+
+**Today's Progress:**
 
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 72: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 73: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+### Day 74: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 75: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 76: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 77: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 78: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 79: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 80: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 81: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 82: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 83: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 84: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 85: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 86: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 87: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 88: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 89: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 90: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 91: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 92: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 93: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 94: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 95: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 96: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 97: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 98: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 99: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 100: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:**
