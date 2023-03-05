@@ -604,7 +604,7 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Thoughts:** pretty straightforward stuff. color theory is interesting. am wondering what I should build as following a tutorial isn't exactly striking inspiration in me. mainly though, i am content that i have returned to learning coding again. suffering or the desire to prevent future suffering seems to be the best motivation for me, haha. i have been wondering a lot what my purpose is in life....
 
-**Link to work:** https://twitter.com/chiisana2u/status/1632485311027503109
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-36
 
 ### Day 71: 
 
