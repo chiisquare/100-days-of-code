@@ -606,13 +606,13 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-36
 
-### Day 71: 
+### Day 71: May 8th, 2023 Monday
 
-**Today's Progress:**
+**Today's Progress:** played more with CSS to create color selectors with fCC. finished ossia's free book on breaking into tech the other day.
 
-**Thoughts:** 
+**Thoughts:** was motivated to come back here when a few people (in real life and online!) showed appreciation for me, and said that they were rooting for me!!! i have to hold onto those moments of support, especially for when i don't feel motivated to cheer for myself sometimes..... i believe in myself and in a world where everyone can win.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1655758603255443457
 
 ### Day 72: 
 
