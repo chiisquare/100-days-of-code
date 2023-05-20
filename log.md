@@ -614,13 +614,13 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1655758603255443457
 
-### Day 72: 
+### Day 72: May 19th, 2023 Friday
 
-**Today's Progress:**
+**Today's Progress:** spent time refining my color selectors using CSS and HTML, about 50 minutes.
 
-**Thoughts:** 
+**Thoughts:** I don't feel 100% about the concepts. Merely staying present with the learning process today has been a struggle, as thoughts of work rise to the surface. I am even having difficulty sleeping becaues of work (again, my work is not coding-related. Maybe I need to take a day off soon?)
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1659743884992212993
 
 ### Day 73: 
 
