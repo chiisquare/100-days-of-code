@@ -622,17 +622,19 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Link to work:** https://twitter.com/chiisana2u/status/1659743884992212993
 
-### Day 73: 
+### Day 73: May 20th, 2023 Saturday
 
-**Today's Progress:**
+**Today's Progress:** Progressed towards finishing the CSS color selectors exercise on fCC
 
-**Thoughts:** 
+**Thoughts:** focus was better this session than before, but not optimal. learned about designing and customizing borders and shadows around elements
 
-### Day 74: 
+**Link to work:** https://twitter.com/chiisana2u/status/1660052232094601217
 
-**Today's Progress:**
+### Day 74: May 24th, 2023 Wednesday
 
-**Thoughts:** 
+**Today's Progress:** completed the color selectors exercise for CSS and began building an HTML form on fCC
+
+**Thoughts:** progress seems much more smooth and effortless this morning. may move study sessions to the morning. will also consider purchasing my own surface charger and switching internet providers since the current one is fast, but sometimes unstable, especially in the evenings
 
 **Link to work:** 
 
