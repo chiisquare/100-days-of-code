@@ -640,13 +640,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1661351462490845184
 
-### Day 75: 
+### Day 75: May 27th, 2023 Saturday
 
-**Today's Progress:**
+**Today's Progress:** switched default browsers to Firefox on Ubuntu due to problems rendering sites and certain dropdown menus on Chrome, despite fully updating both Windows and Ubuntu programs on my Surface. Enabled Ubuntu Pro and LivePatch. Made headway in my HTML registration form on fCC.
 
-**Thoughts:** 
+**Thoughts:** Lots of tearing my hair out, figuratively speaking. I was so close to updating my graphics drivers manually until I found a more conservative, safer solution, which mostly worked..... and then realized from a thread that Firefox can render certain things better than Chrome, specifically due to Java stuff? Not sure yet. It was a fun challenge though.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1662661045209509888
 
 ### Day 76: 
 
