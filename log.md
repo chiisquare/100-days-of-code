@@ -648,13 +648,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1662661045209509888
 
-### Day 76: 
+### Day 76: May 28th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** inching along in my registration form HTML project in fCC.
 
-**Thoughts:** 
+**Thoughts:** felt distracted... happy with my new work set up that my partner and I planned together, but am feeling concerned about other things....
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1663317783382302721
 
 ### Day 77: 
 
