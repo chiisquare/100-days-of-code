@@ -656,13 +656,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1663317783382302721
 
-### Day 77: 
+### Day 77: May 31st, 2023 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** completed the skeleton of my registration form using HTML. began using CSS to improve the appearance.
 
-**Thoughts:** 
+**Thoughts:** only spent 30 minutes studying today due to sleepiness. was a good push though.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1664869693906210818
 
 ### Day 78: 
 
