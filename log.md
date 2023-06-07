@@ -664,13 +664,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1664869693906210818
 
-### Day 78: 
+### Day 78: June 4th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** played with borders and styles for certain elements in CSS for my registration form
 
-**Thoughts:** 
+**Thoughts:** not much was achieved, but i am proud that i spent time learning more about this
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1665567383585423361
 
 ### Day 79: 
 
