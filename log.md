@@ -672,13 +672,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1665567383585423361
 
-### Day 79: 
+### Day 79: June 6th, 2023 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** continued to play with borders, margins, and styling for my HTML registration form via fCC
 
-**Thoughts:** 
+**Thoughts:** only spent 30 minutes since i felt really tired today, but i was able to get into a sort of flow towards the end of my 30 minute pomodoro. do i understand everything that's happening and why? no. but am i having fun? surprisingly, yes.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1666286133175635968
 
 ### Day 80: 
 
