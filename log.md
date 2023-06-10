@@ -680,13 +680,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1666286133175635968
 
-### Day 80: 
+### Day 80: June 10th, 2023 Saturday
 
-**Today's Progress:**
+**Today's Progress:** finished the HTML form tutorial and began making my own survey form using CSS and HTML with even less guidance - my first project towards a certificate in fCC!
 
-**Thoughts:** 
+**Thoughts:** spent about 45 minutes in all. I felt intimidated at the thought of stylizing and writing my own survey form with minimal guidance, but I've done something similar before. Last time, I never actually completed it (an SQL table, I believe), but I feel that this is well within my capabilities to complete in a timely manner. Also, a side note: this is the day that my partner and I finished watching the 2011 version of Hunter x Hunter anime. What an experience it was!!!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1667661548234457088
 
 ### Day 81: 
 
