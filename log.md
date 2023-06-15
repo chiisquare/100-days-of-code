@@ -688,21 +688,21 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1667661548234457088
 
-### Day 81: 
+### Day 81: June 11th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** Finished about a good third of the project, maybe more like 40%!
 
-**Thoughts:** 
+**Thoughts:** I am making more progress than I thought I would today! LEt's GOOOOOOOO
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1667916592326254592
 
-### Day 82: 
+### Day 82: June 14th, 2023 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** Got more work done.... got the radio buttons at least. 
 
-**Thoughts:** 
+**Thoughts:** the formatting is not what I want it to be. i am too sleepy to proceed. good night.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1669183468553609216
 
 ### Day 83: 
 
