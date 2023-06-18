@@ -704,13 +704,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1669183468553609216
 
-### Day 83: 
+### Day 83: June 18th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** finished my first project towards certification in fCC! A survey form in HTML and CSS.
 
-**Thoughts:** 
+**Thoughts:** It was not all that hard to do, especially when I used my practice form as a reference. I do think it was weird that none of the CSS rules would show up. (I wanted to use the CSS rules from the previous practice as a guide, but not even that was showing up!)
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1670578422190415873
 
 ### Day 84: 
 
