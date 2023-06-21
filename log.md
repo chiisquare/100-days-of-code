@@ -712,13 +712,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1670578422190415873
 
-### Day 84: 
+### Day 84: June 20th, 2023 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Started learning more about the CSS Box Model by building a Rothko painting. 
 
-**Thoughts:** 
+**Thoughts:** This is a fun and unique project! The first few steps were very straightforward, but I am sleepy and distracted lol. The CSS Box Model was roughly where I stopped learning during the Odin Project, so I'm hoping I'll get well past this point in fCC.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1671376165582274561
 
 ### Day 85: 
 
