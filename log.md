@@ -720,21 +720,21 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1671376165582274561
 
-### Day 85: 
+### Day 85: June 27th, 2023 Tuesday (?)
 
-**Today's Progress:**
+**Today's Progress:** made significant progress towards finishing my Rothko painting.
 
-**Thoughts:** 
+**Thoughts:** was not fully present during this session due to fatigue and residual stress from work. 
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1676436654335115265
 
-### Day 86: 
+### Day 86: July 4th, 2023 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** completed Rothko painting using CSS and am now learning about CSS flexbox to create a cat photo gallery.
 
-**Thoughts:** 
+**Thoughts:** feeling more refreshed after taking some time off to relax with family and returning to meditation/yoga (+ listening to some very helpful podcasts by happenstance). my study session today was much more productive as a result. I feel invested in this new project as I would like to create a portfolio website to help persuade people to hire or ask me to take photos for them. I feel inspired more than ever to pursue photography!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1676436654335115265
 
 ### Day 87: 
 
