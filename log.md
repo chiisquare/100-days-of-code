@@ -736,13 +736,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1676436654335115265
 
-### Day 87: 
+### Day 87: July 5th, 2023 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** completed my cat photo gallery using CSS flexbox and am now learning more about typography while I create a nutrition label
 
-**Thoughts:** 
+**Thoughts:** pretty straightforward lesson. Am not sure how well I would do if the training wheels were completely off though. I am also just feeling pooped overall despite only doing 30 minutes of studying today - so my attention span and endurance are not there. I gotta take it slowly, but I want to clear as many administrative tasks as possible!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1676746604240412673
 
 ### Day 88: 
 
