@@ -744,21 +744,21 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1676746604240412673
 
-### Day 88: 
+### Day 88: July 9th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** still designing my nutrition label. things are getting interesting.
 
-**Thoughts:** 
+**Thoughts:** I'm learning more about how to target certain classes (sometimes multiple) when creating a CSS rule. I am also learning how to assign multiple classes to a particular element or targeting certain elements in CSS. It's all coming together.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1678916163735003138
 
-### Day 89: 
+### Day 89: July 12th, 2023 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** nutrition label continued. still messing around with formatting of text (typography) using CSS.
 
-**Thoughts:** 
+**Thoughts:** it's pretty complex, but by googling some things again, i'm getting a better understanding of how this tutorial works. i feel i need more in-depth practice still, but understanding is a start.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1679324698256056321
 
 ### Day 90: 
 
