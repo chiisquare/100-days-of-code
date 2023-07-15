@@ -768,13 +768,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1680024562036097029
 
-### Day 91: 
+### Day 91: July 15th, 2023 Saturday
 
-**Today's Progress:**
+**Today's Progress:** Completed my nutrition label and began learning about accessibility by building a quiz using HTML and CSS
 
-**Thoughts:** 
+**Thoughts:** Feeling amped! Got pretty distracted towards the end of my session, but I am pleased with my consistency here.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1680285304203231233
 
 ### Day 92: 
 
