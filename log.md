@@ -760,13 +760,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1679324698256056321
 
-### Day 90: 
+### Day 90: July 14th, 2023 Friday
 
-**Today's Progress:**
+**Today's Progress:** almost done with nutrition label using CSS and HTML.
 
-**Thoughts:** 
+**Thoughts:** I am more sleep-deprived today than I was yesterday, so staying on task has been a bit of an effort. But I was able to remain focused for the majority of the time and enjoyed testing my learning so far as the instructions became less explicitly stated. (This may also be a bit of a cop-out, but I wish I had a second, larger monitor so I can open my browser on that and see more of the page at a time. It is a bit annoying having to scroll between my code and my instructions.)
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1680024562036097029
 
 ### Day 91: 
 
