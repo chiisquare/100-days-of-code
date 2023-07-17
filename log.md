@@ -776,13 +776,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1680285304203231233
 
-### Day 92: 
+### Day 92: July 16th, 2023 Sunday
 
-**Today's Progress:**
+**Today's Progress:** progressed through my quiz lesson while learning about accessibility
 
-**Thoughts:** 
+**Thoughts:** Lots more reading involved here. I am having to look up stuff more often as less explanations are being given. It's been fun and challenging!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1681090283675475969
 
 ### Day 93: 
 
