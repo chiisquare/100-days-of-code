@@ -792,13 +792,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1687560758542946306
 
-### Day 94: 
+### Day 94: Aug 4th, 2023, Friday
 
-**Today's Progress:**
+**Today's Progress:** changed color and formatting of the navigation list elements to suit accessibility best practices
 
-**Thoughts:** 
+**Thoughts:** feeling somewhat unproductive today, but I am trucking along as best as I can!
 
-**Link to work:** 
+**Link to work:** https://forum.freecodecamp.org/t/contrast-ratios/611937
 
 ### Day 95: 
 
