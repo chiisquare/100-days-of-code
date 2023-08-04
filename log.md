@@ -784,13 +784,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1681090283675475969
 
-### Day 93: 
+### Day 93: Aug 2nd, 2023, Wednesday
 
-**Today's Progress:**
+**Today's Progress:** returned to finishing my quiz mini-project while learning about accessibilty
 
-**Thoughts:** 
+**Thoughts:** ....forgot so much about what I was learning and doing. mainly playing catch-up while progressing.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1687560758542946306
 
 ### Day 94: 
 
