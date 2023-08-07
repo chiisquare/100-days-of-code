@@ -800,13 +800,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://forum.freecodecamp.org/t/contrast-ratios/611937
 
-### Day 95: 
+### Day 95: Aug 6th, 2023, Sunday
 
-**Today's Progress:**
+**Today's Progress:** Made some more modifications to the styling of the navigation bar on my quiz while keeping accessibility rules in mind.
 
-**Thoughts:** 
+**Thoughts:** More googling ensues. Feeling more clear-minded today following a 30-minute walk and nap. I hope to keep this habit up while walking and learning to produce music!!
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1688379347357319168
 
 ### Day 96: 
 
