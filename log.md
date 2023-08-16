@@ -808,13 +808,13 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1688379347357319168
 
-### Day 96: 
+### Day 96: Aug 15th, 2023, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Solidly in the last quarter of my quiz/accessibility project.
 
-**Thoughts:** 
+**Thoughts:** Still more googling. I am learning to use the Inspect element tool as I need to.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1691645791708856678
 
 ### Day 97: 
 
