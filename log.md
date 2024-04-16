@@ -27,7 +27,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---->
+
 
 ### Day 1: January 23, 2022, Sunday
 
@@ -816,34 +816,38 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Link to work:** https://twitter.com/chiisana2u/status/1691645791708856678
 
-### Day 97: 
+### Day 97: Aug 19th, 2023, Saturday
 
-**Today's Progress:**
+**Today's Progress:** completed my quiz involving accessibility guidelines on fCC.
 
-**Thoughts:** 
+**Thoughts:** glad to be working on a second project towards certification.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1693028063276056934
 
-### Day 98: 
+### Day 98: Mar 21st, 2024, Thursday
 
-**Today's Progress:**
+**Today's Progress:** started tutorial for a free intro to cybersecurity game (KC7).
 
-**Thoughts:** 
+**Thoughts:** fun. well-written tutorial. It's a nice change of pace and a way for me to ease back into learning code without actually having to... code.
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1770973491140907318 
 
-### Day 99: 
+### Day 99: Apr 9th, 2024, Tuesday
 
-**Today's Progress:**
+**Today's Progress:** completed tutorial questions in KC7.
 
-**Thoughts:** 
+**Thoughts:** struggled on a few questions but found ways to pull through without having to ask for help. let's gooo
 
-**Link to work:** 
+**Link to work:** https://twitter.com/chiisana2u/status/1777780619029668055
 
-### Day 100: 
+### Day 100: Apr 15th, 2024, Monday
 
-**Today's Progress:**
+**Today's Progress:** over halfway done with Valdoria module on KC7.
 
-**Thoughts:** 
+**Thoughts:** struggled a few times but was able to get through. This game is fun and a good confidence booster lol.
 
-**Link to work:**
+I made a long thread on this twitter about my experience with 100daysofcode. In summary, I would do it again, but I would not tell as many people IRL about this challenge so as to put less external pressure on myself as that tends to make me tunnel vision the task and approach burnout sooner (this is specific to me, I believe many people actually find a lot of success otherwise). I also will private this first round since I have made a lot of comments that might be too vulnerable for my comfort.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1779917716079481128
+
+--->
