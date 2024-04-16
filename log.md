@@ -851,3 +851,11 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 **Link to work:** https://twitter.com/chiisana2u/status/1779917716079481128
 
 --->
+
+Round 2, Day 1: Apr 16th, 2024, Tuesday
+
+**Today's Progress**: Watched the last video for week 1 of the intro Python course I am auditing on Coursera. filled in missing parts in the Responsive Web Dev certification course on fCC. Also wrote out the log for the last few days in my first round of this challenge.
+
+**Thoughts:** blazed through that fCC part. May need to change to a different Python course if I can't get my assignments graded as an auditor. 
+
+**Link to work:** https://twitter.com/chiisana2u/status/1780346372186587596
