@@ -850,6 +850,16 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1779917716079481128
 
+Example for round 2:
+
+
+Round 2, Day x:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
 --->
 
 Round 2, Day 1: Apr 16th, 2024, Tuesday
@@ -859,3 +869,35 @@ Round 2, Day 1: Apr 16th, 2024, Tuesday
 **Thoughts:** blazed through that fCC part. May need to change to a different Python course if I can't get my assignments graded as an auditor. 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1780346372186587596
+
+Round 2, Day 2: Apr 17th, 2024, Wednesday
+
+**Today's Progress**: got through as much of the free content I could on Coursera, then had to switch gears to a YT tutorial through fCC on Beginner level Python and will also work through replit's free course for redundancy. Downloaded Pycharm after wrestling with Phoenix for a little.
+
+**Thoughts:** A lot of what was covered so far in the first week and a half on Coursera felt like review, which was nice because it meant that I did not have to think too hard about the content. Replit's free course does not require me to download an IDE, which is convenient, but I feel like I will learn more from the YT tutorial.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1780685946947617184
+
+Round 2, Day 3:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
+Round 2, Day 4:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
+Round 2, Day 5:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
