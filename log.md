@@ -1,4 +1,4 @@
-# chii's First (Official) 100 Days Of Code - Log
+# chii's 100 Days Of Code (x 2) - Log
 
  <!--- EXAMPLE STRUCTURE
 ### Day 3: Feb. 5th, 2022 Saturday
