@@ -1,6 +1,6 @@
 # chii's 100 Days Of Code (x 2) - Log
 
- <!--- EXAMPLE STRUCTURE
+ <!-- EXAMPLE STRUCTURE
 ### Day 3: Feb. 5th, 2022 Saturday
 
 **Today's Progress**: 
@@ -17,6 +17,8 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+
+-->
 
 ### Day 1: June 27, Monday
 
@@ -37,15 +39,15 @@
 
 ### Day 2: January 24, 2022, Monday
 
-**Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. Dad has generously purchased for me an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th! (2/4/2022: have unenrolled since due to a desire to focus on easier languages or courses first. will definitely consider returning though)
+**Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. I have been gifted an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th! (2/4/2022: have unenrolled since due to a desire to focus on easier languages or courses first. will definitely consider returning though)
 
-**Thoughts**: I can think a lot more clearly now that I'm not super sleepy. My attention span still feels pulled in multiple directions. Took a really long break after lunch.... gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
+**Thoughts**: Attention span is better today but still feeling distracted. gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
 
-### Day 3: January 26, 2022 Wednesday (skipped Tuesday)
+### Day 3: January 26, 2022 Wednesday
 
 **Today's Progress**: Downloaded Android Studio on my Surface. Looked up UI stuff.
 
-**Thoughts:** Pretty straightforward. I have high hopes for my course so far. I feel like I'm putting a lot of pressure on this for being something I plan to make money out of, but I just gotta stay in the moment and focus on taking it one step at a time.
+**Thoughts:** Pretty straightforward. I have high hopes for my course so far. I feel like I'm putting a lot of pressure on this for being something I plan to make money out of, but I just gotta stay in the moment and take it one step at a time.
 
 ### Day 4: January 27, 2022 Thursday
 
@@ -53,7 +55,7 @@
 
 **Thoughts:** slow progress. mostly worked on applying for jobs.
 
-### Day 5: January 31, 2022, Monday (skipped Friday, Saturday, and Sunday afaik... restart challenge?)
+### Day 5: January 31, 2022, Monday
 
 **Today's Progress**: just did ~20 minutes of CSS on Free Code Camp. Looked up requirements for being a Senior Engine Engineer/Programmer at MiHoYo (since I'm an avid Genshin Impact player at the time of writing this).
 
@@ -75,7 +77,6 @@
 
 **Notes on what I've learned:**
 
-- #womenintech, #womenwhocode
 - learned about a free coding boot camp called "#100devs". super inspired by the community and availability of good quality and free resources that are out there. experiencing this encouraging atmosphere helps me stay motivated to pursue software development and programming after over a year of hesitance. joining #100daysofcode on twitter is a game-changer.
 
 ### Day 3: Feb. 5th, 2022 Saturday
@@ -94,13 +95,13 @@
 
 **Today's Progress**: took two days as a break to adjust to onboarding at a new job. these days were spent with me reading through game dev notes on Learn to Code RPG from freeCodeCamp in my spare time and starting to download the necessary software needed for the Relational Database Curriculum (also from fCC).
 
-**Thoughts:** I feel a little bit over my head.... I'm not entirely sure what languages like Bash are for, even after maxing out my stats in the coding RPG. but that's what the Internet is for, amirite?
+**Thoughts:** I feel like I'm a bit in over my head.... I'm not entirely sure what languages like Bash are for, even after maxing out my stats in the coding RPG. but that's what the Internet is for, amirite?
 
 ### Day 6: Feb. 10th, 2022 Thursday
 
 **Today's Progress**: spent about an hour or so finishing the set up of the aforementioned software (Docker, Git, Visual Studio Code, and an extension?) on my main computer and Surface before finally starting the tutorial. 
 
-**Thoughts:** Let me tell you, it was a RIDE trying to set the curriculum up these past few days! Having to use the git CMD terminal, remembering how to operate said terminal (when it was sort of assumed in the instructions), getting my Visual Studio Code to recognize that I've configured my Git account on my Git software by restarting the software... not getting it to work then... and then restarting the whole computer, which made it work. Lots of googling, asking my developer dad (who is also my biological dad) for help, and getting frustrated. Is this the software developer experience? Meanwhile, the actual tutorial itself was much more straightforward. Learned about Bash, Git (cursory level), JSON, Docker, and terminals. Feeling a little in over my head right now, but that's okay.
+**Thoughts:** Let me tell you, it was a RIDE trying to set the curriculum up these past few days! Having to use the git CMD terminal, remembering how to operate said terminal (when it was sort of assumed in the instructions), getting my Visual Studio Code to recognize that I've configured my Git account on my Git software by restarting the software... not getting it to work then... and then restarting the whole computer, which made it work. Lots of googling, asking my developer dad (who is also my biological dad lol) for help, and getting frustrated. Is this the software developer experience??? Meanwhile, the actual tutorial itself was much more straightforward. Learned about Bash, Git (cursory level), JSON, Docker, and terminals. Feeling a little in over my head still, but that's okay.
 
 ### Day 7: Feb. 11th, 2022 Friday
 
@@ -118,7 +119,7 @@
 
 **Today's Progress**: started on steps 1 and 2 in said SQL tutorial, but had trouble connecting to the server in both steps despite performing them correctly and attempting to restart the terminal and programs. needed to sleep early to leave for home the next day, so after about 20 minutes or so of troubleshooting, I decided to call it a day. 
 
-**Thoughts:** honestly was feeling quite frustrated that night. I can accept struggles on the coding itself, but when it has to do with mere set-up, I find it very irksome. I just feel like I'm wasting time at that point. Lol, yet again, is this simply part of being a developer?
+**Thoughts:** honestly was feeling quite frustrated that night. I can accept struggles on the coding itself, but when it has to do with mere set-up, I find it very irksome. I just feel like I'm wasting time at that point. Lol, yet again, is this simply a part of being a developer?
 
 ### Day 9: Feb. 14th, 2022 Monday
 
@@ -152,7 +153,7 @@
 
 **Today's Progress**: i got an answer on fCC, wrote another question, organized my notes on the rubric into something with subheadings for each table, and then attempted to write out the data I plan to include in each table. i haven't even written more code yet.
 
-**Thoughts:** had to skip programming practice yesterday since i was feeling really uncomfortable and emotional about several people in my life and my place in their relationships... i felt better after getting some sleep and going out to climb with friends. only started drawing out galaxy table in my journal bc i want to make sure that i have data for all of my categories (bc i'm certain there are smaller galaxies or celestial bodies that may not even have as much data as other bodies)... while correctness of data is not part of the rubric, i don't want to make numbers up. posted another question on fCC.
+**Thoughts:** had to skip programming practice yesterday since i was feeling really emotional then. i felt better after getting some sleep and going out to climb with friends. only started drawing out galaxy table in my journal bc i want to make sure that i have data for all of my categories (bc i'm certain there are smaller galaxies or celestial bodies that may not even have as much data as other bodies)... while correctness of data is not part of the rubric, i don't want to make numbers up. posted another question on fCC.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1495615786282586117
 
@@ -176,7 +177,7 @@
 
 **Today's Progress**: ...didn't truly do coding lol, only thought about it and found an article that would guide me with making a wordle clone using basic HTML, CSS, JavaScript, and NPM!
 
-**Thoughts:** job training is finally easing up. I am so anxious that it's hard for me to do work outside of the shift.... current me (which is Mar. 12th chiisquare) is wondering if making time for yoga would have helped things... unsure.
+**Thoughts:** job training is finally easing up. I am so anxious that it's hard for me to do work outside of the shift...
 
 **Link to work:** https://twitter.com/chiisana2u/status/1501019133260931074
 
@@ -222,7 +223,7 @@
 
 ### Day 22: Mar. 18th, 2022 Thursday
 
-**Today's Progress**: asked questions about truthiness and falsiness in JS on Twitter on 3/16. found an article about said topic on 3/17. continued the Intro to Interviewing module in earnest today, attended a small, free Intro to Python workshop through the Healthy Gamer Discprd server.
+**Today's Progress**: asked questions about truthiness and falsiness in JS on Twitter on 3/16. found an article about said topic on 3/17. continued the Intro to Interviewing module in earnest today, attended a small, free Intro to Python workshop through the Healthy Gamer Discord server.
 
 **Thoughts:** am slow-going when it comes to working on coding... would like to get to a point where I'm working on coding at least 2 hours a day, but babysteps. RSVP'd to a virtual Tech Talk through my local Women Who Code Meetup group! I'm really excited about it. I'm getting more involved with the coding community and feel myself becoming more motivated!
 
@@ -264,7 +265,7 @@
 
 **Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper.
 
-**Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, I am suddenly buffeted with several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or studying a new language (to be completely frank though, I just wanted to continue watching Vanitas no Carte). While these other interests are good, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
+**Thoughts:** feeling really distracted lately. Lost precious sleep yesterday since I let myself get addicted to an anime. While I felt much better today since I had no work today and could sleep in, I still felt really distracted. When I sit down to code, my mind is suddenly buffeted with thoughts of several other things I could be doing for pseudoproductivity - like cleaning, learning to crochet, or studying a new language (to be completely frank though, I just wanted to continue watching Vanitas no Carte). While these other interests are good, I need to make a habit of blocking out my time so I can still have fun while getting the most important things done.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1507930161366417411
 
@@ -288,13 +289,13 @@
 
 **Today's Progress**: continued the Intro to Interviewing module using JavaScript on Grasshopper. cs50x's Puzzle Day 2022 has begun!
 
-**Thoughts:** not sure what I learned here, but I think I was learning how to build each of the specific functions necessary to solve the question after creating a mental model of the problem and its solution (i.e. abstraction). am struggling with retention and independent regurgitation! meanwhile
+**Thoughts:** not sure what I learned here, but I think I was learning how to build each of the specific functions necessary to solve the question after creating a mental model of the problem and its solution (i.e. abstraction). am struggling with retention and independent regurgitation!
 
 **Link to work:** https://twitter.com/chiisana2u/status/1510109048758284291
 
 ### Day 31: Apr. 8th, 2022 Friday (late at night)
 
-**Today's Progress**: (prior to today) completed cs50x's Puzzle Day 2022 with flying colors. fell ill, then continued the Intro to Interviewing module using JavaScript on Grasshopper after recovering. 
+**Today's Progress**: (prior to today) completed cs50x's Puzzle Day 2022 with flying colors. felt ill, then continued the Intro to Interviewing module using JavaScript on Grasshopper after recovering. 
 
 **Thoughts:** am struggling with certain quiz questions and why certain answers aren't as valid as the best answer. I am happy that I included others in my journey though; it was fun, heartwarming, and inspiring to receive generous help from people more experienced than me. thanks, all!
 
@@ -326,9 +327,9 @@
 
 ### Day 35: Apr. 14th, 2022 Thursday
 
-**Today's Progress**: started the "Learning How to Learn" course on Coursera yesterday and really enjoyed it.... a lot of the practical tips were said to me several times before, but not on a neuroscience level. I really appreciated learning about the importance of focused and diffused modes of thinking. Today on LH2L, I listened to more interviews from people in different disciplines share their thoughts and approaches on learning. I then spent about an hour reading about I can ask for help or troubleshoot effectively on The Odin Project, and then had the opportunity to speak with UI/UX designer. 
+**Today's Progress**: started the "Learning How to Learn" course on Coursera yesterday and really enjoyed it.... a lot of the practical tips were said to me several times before, but not on a neuroscience level. I really appreciated learning about the importance of focused and diffused modes of thinking. Today on LH2L, I listened to more interviews from people in different disciplines share their thoughts and approaches on learning. I then spent about an hour reading about I can ask for help or troubleshoot effectively on The Odin Project, and then had the opportunity to speak with a UI/UX designer. 
 
-**Thoughts:** I enjoyed the LH2L course so far still. I feel a bit guilty for this sidequest since I'm not actively coding, but I think it's important to take a step back and look at the bigger picture: what is my why? what coding languages do job opportunities at my preferred city of residence tend to require? how am I approaching learning at this time that is actually holding me back from meaningful achievement? I then felt a bit impatient with the TOP submodule because, although it was easy, I was anxious to just start learning how to code. Speaking with the UI/UX designer was really humbling... I appreciate the job more deeply as a result. I feel unsure of my ability to connect with people in the capacity that will be required for me in that job, but I do feel encouraged to learn more about other tech jobs, so I know for sure that I'm not just defaulting to software development because it's the cool thing to do.
+**Thoughts:** I enjoyed the LH2L course so far still. I feel a bit guilty for this sidequest since I'm not actively coding, but I think it's important to take a step back and look at the bigger picture: what is my why? what coding languages do job opportunities at my preferred city of residence tend to require? how am I approaching learning at this time that is actually holding me back from meaningful achievement? I then felt a bit impatient with the TOP submodule because, although it was easy, I was anxious to just start learning how to code. Speaking with the UI/UX designer was really humbling... I appreciate the job more deeply as a result. I feel unsure of my ability to connect with people in the capacity that will be required for me in that job, but I do feel encouraged to learn more about other tech jobs, so I know for sure that I'm not just defaulting to software development just because it's the cool thing to do.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1514800031529799689
 
@@ -450,7 +451,7 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Today's Progress**: Completed and pushed my first true project onto GitHub. I am feeling over the moon right now. 
 
-**Thoughts:** This took maybe 3-4 hours for me, maybe more as I was trying to make this as flawless as possible. It is not a complicated project as it is simply an HTML page that links to three separate pages, but I really found myself confused on how to commit messages on VSC initially since I forgot that I had already set that connection up as well as getting invested in the descriptions for each recipe. I am still unsure how to write multiline Git commit messages. It also took me a strange amount of time getting my HTML link to display for users to return to the home page without having to hit the back button as well as learn a little markdown, but I am really happy and proud of my result, even after looking at other people's work. I worked hard on tihs project, learned a lot, and perhaps most of all, had fun. All in all, this was a momentous way to complete my halfway point for this coding challenge!
+**Thoughts:** This took maybe 3-4 hours for me, maybe more as I was trying to make this as flawless as possible. It is not a complicated project as it is simply an HTML page that links to three separate pages, but I really found myself getting confused on how to commit messages on VSC initially since I forgot that I had already set that connection up as well as getting invested in the descriptions for each recipe. I am still unsure how to write multiline Git commit messages. It also took me a strange amount of time getting my HTML link to display for users to return to the home page without having to hit the back button as well as learn a little markdown, but I am really happy and proud of my result, even after looking at other people's work. I worked hard on this project, learned a lot, and perhaps most of all, had fun. All in all, this was a momentous way to complete my halfway point for this coding challenge!
 
 **Link to work:** https://github.com/chiisquare/odin-recipes
 
@@ -554,7 +555,7 @@ Also spent hella time trying to figure out how to get my monitors to display pro
 
 **Today's Progress:** resumed this challenge for the umpteenth time! it seems that as my sleep schedule and sense of purpose declines, my desire to work towards something increases.... and for now, I have rechosen code again. I am working through freecodecamp's (New) Responsive Web Design certification and have read more of @ossia's book on learning to code and becoming a developer. I have made my fCC profile public,
 
-**Thoughts:** I wish the book's background has a dark mode setting to make it easier on the eyes while reading. The new layout for the responsive web design certification is even more fluid than before somehow. I have a burgeoning belly. I wish I had my mouse with me as I work on my Microsoft Surface rather than this touchpad. It is late, and I feel sleepy and yet not sleepy at the same time. Very distracted.
+**Thoughts:** I wish the book's background has a dark mode setting to make it easier on the eyes while reading. The new layout for the responsive web design certification is even more fluid than before somehow. I wish I had my mouse with me as I work on my Microsoft Surface rather than this touchpad. It is late, and I feel sleepy and yet not sleepy at the same time. Very distracted.
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-9
 
@@ -846,23 +847,11 @@ may move study sessions to the morning. will also consider purchasing my own sur
 
 **Thoughts:** struggled a few times but was able to get through. This game is fun and a good confidence booster lol.
 
-I made a long thread on this twitter about my experience with 100daysofcode. In summary, I would do it again, but I would not tell as many people IRL about this challenge so as to put less external pressure on myself as that tends to make me tunnel vision the task and approach burnout sooner (this is specific to me, I believe many people actually find a lot of success otherwise). I also will private this first round since I have made a lot of comments that might be too vulnerable for my comfort.
+I made a long thread on this twitter about my experience with 100daysofcode. In summary, I would do it again, but I would not tell as many people IRL about this challenge so as to put less external pressure on myself as that otherwise tends to make me tunnel vision the task and approach burnout sooner (this is specific to me, I believe many people actually find a lot of success otherwise). I also will private this first round since I have made a lot of comments that might be too vulnerable for my comfort.
 
 **Link to work:** https://twitter.com/chiisana2u/status/1779917716079481128
 
-Example for round 2:
-
-
-Round 2, Day x:
-
-**Today's Progress**: 
-
-**Thoughts:**
-
-**Link to work:** 
---->
-
-Round 2, Day 1: Apr 16th, 2024, Tuesday
+### Round 2, Day 1: Apr 16th, 2024, Tuesday
 
 **Today's Progress**: Watched the last video for week 1 of the intro Python course I am auditing on Coursera. filled in missing parts in the Responsive Web Dev certification course on fCC. Also wrote out the log for the last few days in my first round of this challenge.
 
@@ -878,7 +867,31 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://twitter.com/chiisana2u/status/1780685946947617184
 
-Round 2, Day 3:
+### Round 2, Day 3:
+
+**Today's Progress**: made an interesting menu item generator based on user input.
+
+**Thoughts:** pretty straightforward. I recognize now that a lot of this should be review for me, but it doesn't hurt to return to the basics.
+
+**Link to work:** https://replit.com/@chiisquare/day-3100-days#main.py
+
+### Round 2, Day 4:
+
+**Today's Progress**: made a custom storybook using python
+
+**Thoughts:** again, pretty chill project. i like the energetic presenter. the mini lectures are clear, informative, and helpful as they give a list of common errors to avoid.
+
+**Link to work:** https://replit.com/@chiisquare/Day4-of-replit100daysofcode
+
+### Round 2, Day 5:
+
+**Today's Progress**: Built my very first Akinator style game with 'if' statements using python
+
+**Thoughts:** This took me a bit of time to decide the concept, but once I figured it out (and practiced troubleshooting the syntax), it was really satisfying & fun for me.
+
+**Link to work:** https://replit.com/@chiisquare/day5100-days#main.py
+
+### Round 2, Day 6:
 
 **Today's Progress**: 
 
@@ -886,15 +899,7 @@ Round 2, Day 3:
 
 **Link to work:** 
 
-Round 2, Day 4:
-
-**Today's Progress**: 
-
-**Thoughts:**
-
-**Link to work:** 
-
-Round 2, Day 5:
+### Round 2, Day 7:
 
 **Today's Progress**: 
 
