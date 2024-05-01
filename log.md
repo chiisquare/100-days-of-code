@@ -18,7 +18,7 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
--->
+
 
 ### Day 1: June 27, Monday
 
@@ -30,32 +30,33 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+-->
 
-### Day 1: January 23, 2022, Sunday
+### Round 1, Day 1: January 23, 2022, Sunday
 
 **Today's Progress**: Started FreeCodeCamp by learning basic HTML and HTML5.
 
 **Thoughts**: Pretty straightforward, really liking the concise tutorials. Feels good to see myself applying what I've learned on really basic applications.
 
-### Day 2: January 24, 2022, Monday
+### Round 1, Day 2: January 24, 2022, Monday
 
 **Today's Progress**: Finished the basic HTML tutorial and began learning CSS via FreeCodeCamp. I have been gifted an Udemy course on Android app development using Kotlin. Enrolled in MIT Python course for Wednesday, Jan. 26th! (2/4/2022: have unenrolled since due to a desire to focus on easier languages or courses first. will definitely consider returning though)
 
 **Thoughts**: Attention span is better today but still feeling distracted. gonna get going on CSS and then look at the Udemy course on Kotlin. I'm hoping I don't bite off more than I can chew!
 
-### Day 3: January 26, 2022 Wednesday
+### Round 1, Day 3: January 26, 2022 Wednesday
 
 **Today's Progress**: Downloaded Android Studio on my Surface. Looked up UI stuff.
 
 **Thoughts:** Pretty straightforward. I have high hopes for my course so far. I feel like I'm putting a lot of pressure on this for being something I plan to make money out of, but I just gotta stay in the moment and take it one step at a time.
 
-### Day 4: January 27, 2022 Thursday
+### Round 1, Day 4: January 27, 2022 Thursday
 
 *Today's Progress*: tried to get AVD (android virtual device) working, it's basically an emulator.
 
 **Thoughts:** slow progress. mostly worked on applying for jobs.
 
-### Day 5: January 31, 2022, Monday
+### Round 1, Day 5: January 31, 2022, Monday
 
 **Today's Progress**: just did ~20 minutes of CSS on Free Code Camp. Looked up requirements for being a Senior Engine Engineer/Programmer at MiHoYo (since I'm an avid Genshin Impact player at the time of writing this).
 
@@ -63,7 +64,7 @@
 
 ### RESTART (goal: get a job as a front-end developer by Feb. 2023)
 
-### Day 1: Feb. 3rd, 2022 Thursday
+### Round 1, Day 1: Feb. 3rd, 2022 Thursday
 
 **Today's Progress**: attempted to create my first ever android app (that simply says 'hello world' in kotlin), looked up what CSS was, practiced modifying margins and padding in an existing HTML document using CSS in FreeCodeCamp.org
 
@@ -893,11 +894,11 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 ### Round 2, Day 6:
 
-**Today's Progress**: 
+**Today's Progress**: made a basic login system using elif statements with python
 
-**Thoughts:**
+**Thoughts:** very straightforward stuff. i think day 5's project was more complicated because i was already nesting my if statements (which we'll apparently learn tomorrow). I spent more time thinking of a unique greeting for the three usernames I came up with, lol.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day6100-days
 
 ### Round 2, Day 7:
 
@@ -906,3 +907,36 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 **Thoughts:**
 
 **Link to work:** 
+
+### Round 2, Day 8:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
+### Round 2, Day 9:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
+### Round 2, Day 10:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
+### Round 2, Day 11:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:** 
+
