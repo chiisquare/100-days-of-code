@@ -868,7 +868,7 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://twitter.com/chiisana2u/status/1780685946947617184
 
-### Round 2, Day 3:
+### Round 2, Day 3: Apr 21st, 2024, Sunday
 
 **Today's Progress**: made an interesting menu item generator based on user input.
 
@@ -876,7 +876,7 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://replit.com/@chiisquare/day-3100-days#main.py
 
-### Round 2, Day 4:
+### Round 2, Day 4: Apr 22nd, 2024, Monday
 
 **Today's Progress**: made a custom storybook using python
 
@@ -884,7 +884,7 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://replit.com/@chiisquare/Day4-of-replit100daysofcode
 
-### Round 2, Day 5:
+### Round 2, Day 5: (still) Apr 22nd, 2024, Monday
 
 **Today's Progress**: Built my very first Akinator style game with 'if' statements using python
 
@@ -892,7 +892,7 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://replit.com/@chiisquare/day5100-days#main.py
 
-### Round 2, Day 6:
+### Round 2, Day 6: Apr 30th, 2024, Tuesday
 
 **Today's Progress**: made a basic login system using elif statements with python
 
@@ -900,13 +900,13 @@ Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Link to work:** https://replit.com/@chiisquare/day6100-days
 
-### Round 2, Day 7:
+### Round 2, Day 7: May 1st, 2024, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Made an annoying fake fan finder for a video game using my knowledge of nesting if statements.
 
-**Thoughts:**
+**Thoughts:** This project was more challenging than I had guessed it would be. The first ten or so times of me trying to run my code was me trying to figure out why it wasn't working (most of it was improper indentations, and then remembering that elifs were a thing instead of writing 5 different if statements when they're all related to each other).
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day-7100-days
 
 ### Round 2, Day 8:
 
