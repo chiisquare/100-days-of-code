@@ -860,7 +860,7 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1780346372186587596
 
-Round 2, Day 2: Apr 17th, 2024, Wednesday
+### Round 2, Day 2: Apr 17th, 2024, Wednesday
 
 **Today's Progress**: got through as much of the free content I could on Coursera, then had to switch gears to a YT tutorial through fCC on Beginner level Python and will also work through replit's free course for redundancy. Downloaded Pycharm after wrestling with Phoenix for a little.
 
