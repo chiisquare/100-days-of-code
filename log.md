@@ -908,13 +908,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-7100-days
 
-### Round 2, Day 8:
+### Round 2, Day 8: May 2nd, 2024, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Made a custom affirmations generator with Python, combining the knowledge I learned about input/output, if statements, nested if statements, concatenation, and now Boolean operators!
 
-**Thoughts:**
+**Thoughts:** This was a STRUGGLE! Whatever AI Replit is using to help fill in the prompts was really useful, so I was spending less time on the content and more on structuring the code. I had trouble understanding how to make my generator case-insensitive to where it always capitalizes the first letter, regardless of the name that is inputted, so it only works with "chii" at this time. I also spent a lot of time trying to figure out when to use if vs elif vs else, but I think I got it in the end. Lastly, I had to figure out how to use "not," but it was a good practice.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day-8-100-days
 
 ### Round 2, Day 9:
 
@@ -937,6 +937,19 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 **Today's Progress**: 
 
 **Thoughts:**
+
+### Round 2, Day 12:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+### Round 2, Day 13:
+
+**Today's Progress**: 
+
+**Thoughts:**
+
 
 **Link to work:** 
 
