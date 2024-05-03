@@ -916,13 +916,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-8-100-days
 
-### Round 2, Day 9:
+### Round 2, Day 9: May 3rd, 2024, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: learned about casting, which is telling the computer to consider a string as an integer-type of variable. all you have to do is surround the thing in int().
 
-**Thoughts:**
+**Thoughts:** super simple project. i'm kinda glad it was so simple because the last few days have been fun, but also a lot for me to write.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day-9-100-days#main.py 
 
 ### Round 2, Day 10:
 
