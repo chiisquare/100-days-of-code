@@ -924,32 +924,35 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-9-100-days#main.py 
 
-### Round 2, Day 10:
+### Round 2, Day 10: May 7th, 2024, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: built my own tip calculator using Python
 
-**Thoughts:**
+**Thoughts:** this exercise served as practice in familiarity with python operators. very ez once you figure out the math. 
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day-10100-days#main.py
 
-### Round 2, Day 11:
+### Round 2, Day 11: ...still May 7th, 2024, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Made a calculator for the number of seconds in a year, depending on whether it's a leap year or not.
 
-**Thoughts:**
+**Thoughts:** Also very simple exercise. Again, the math is the hardest part for this. The built-in AI for replit solved a lot of this part, so it felt like I was cheating.
 
-### Round 2, Day 12:
+**Link to work:** https://replit.com/@chiisquare/day-11100-days
 
-**Today's Progress**: 
+### Round 2, Day 12: ...also still May 7th, 2024, Tuesday (I'm playing catch-up here)
 
-**Thoughts:**
+**Today's Progress**: debugged some practice code
+
+**Thoughts:** took me some time to figure out where the code was (it's in the Table of Contents sidebar of the replit workspace for the challenge) but it was pretty straightforward. My final code wasn't as elegant as the answer, but it was good enough.
+
+**Link to work:** https://twitter.com/chiisana2u/status/1787965503719276754
 
 ### Round 2, Day 13:
 
 **Today's Progress**: 
 
 **Thoughts:**
-
 
 **Link to work:** 
 
