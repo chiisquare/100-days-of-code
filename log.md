@@ -948,11 +948,46 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://twitter.com/chiisana2u/status/1787965503719276754
 
-### Round 2, Day 13:
+### Round 2, Day 13: May 9th, 2024, Wednesday
+
+**Today's Progress**: made a grade calculator using Python
+
+**Thoughts:** pretty straightforward as far as projects go. I thought the affirmations generator was much more challenging, but I suppose I've also gotten better.
+
+**Link to work:** https://replit.com/@chiisquare/day-13100-days#main.py
+
+### Round 2, Day 14: 
 
 **Today's Progress**: 
 
-**Thoughts:**
+**Thoughts:** 
 
-**Link to work:** 
+**Link to work:**
+
+
+### Round 2, Day 15: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Round 2, Day 16: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Round 2, Day 17: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
 
