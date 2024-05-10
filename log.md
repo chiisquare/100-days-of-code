@@ -952,18 +952,19 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Today's Progress**: made a grade calculator using Python
 
-**Thoughts:** pretty straightforward as far as projects go. I thought the affirmations generator was much more challenging, but I suppose I've also gotten better.
+**Thoughts:** pretty straightforward as far as projects go: if statements and elif statements, mainly. I thought the affirmations generator was much more challenging, but I suppose I've also gotten better.
 
 **Link to work:** https://replit.com/@chiisquare/day-13100-days#main.py
 
-### Round 2, Day 14: 
+### Round 2, Day 14: May 10th, 2024, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: made my first game (in recent memory) using Python!
 
-**Thoughts:** 
+**Thoughts:** went off-script to learn about and build a dictionary to take multiple, different inputs from the player that equate to the same thing to avoid having to type out every contingency, every time. also used AI to help debug why my dictionary wasn't working initially (it was super helpful! basically, I learned that you have to list out each equality rather than combine them with an or statement since python automatically evaluates the first key term as the value instead of reading on.) 
 
-**Link to work:**
+(i spoke to my partner about my project, and he wondered if there was a more efficient way to accept inputs that are approximately the same as a listed key (i.e. typos like "rcok" or "papre"). i have also wondered this myself.... bookmarking this to explore later.)
 
+**Link to work:** https://replit.com/@chiisquare/day-14100-days
 
 ### Round 2, Day 15: 
 
