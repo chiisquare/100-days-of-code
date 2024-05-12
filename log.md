@@ -966,13 +966,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-14100-days
 
-### Round 2, Day 15: 
+### Round 2, Day 15: May 12th, 2024, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: made a (text) animal sound generator using a while loop and nested if loops.
 
-**Thoughts:** 
+**Thoughts:** this took me some time to make, most likely because I am somewhat sleepless, but I got through it! props to my partner for helping me debug (I had a wrong indentation). lol, I told myself I would finish this the next day, but I have a streak of doing the exact opposite of what I say I'll do.
 
-**Link to work:**
+**Link to work:** https://replit.com/@chiisquare/day15100-days
 
 ### Round 2, Day 16: 
 
