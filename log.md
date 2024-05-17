@@ -966,7 +966,7 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-14100-days
 
-### Round 2, Day 15: May 12th, 2024, Saturday
+### Round 2, Day 15: May 12th, 2024, Sunday
 
 **Today's Progress**: made a (text) animal sound generator using a while loop and nested if loops.
 
@@ -974,7 +974,39 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day15100-days
 
-### Round 2, Day 16: 
+### Round 2, Day 16: May 13th, 2024, Monday
+
+**Today's Progress**: made a lyric guessing game in Python
+
+**Thoughts:** Pretty chill exercise. I'm writing this after 3 days in retrospect and honestly do not remember much.
+
+**Link to work:** https://replit.com/@chiisquare/Day-16100-Days
+
+### Round 2, Day 17: May 14th, 2024, Tuesday
+
+**Today's Progress**: finished the bulk of the code for expanding my rock paper scissors game to where it will go to however many rounds it takes for one player to win three rounds first as well as state the final score for each player. 
+
+**Thoughts:** Not bad. Took me some time to figure out how the counter code works again. There is a strange bug where the first round seems to not count, but I will table it for now since I'm pretty tired at this time.
+
+**Link to work:** https://replit.com/@chiisquare/day17100-days
+
+### Round 2, Day 17 again: May 15th, 2024, Wednesday
+
+**Today's Progress**: finished the updated version of the rock paper scissors game. this is probably the most elaborate and longest set of code I've written thus far. I feel pretty proud of myself. 
+
+**Thoughts:** figured out the bug pretty easily - just had a piece of redundant code in the beginning was all. I didn't do much more because I was prioritizing other things at the time.
+
+**Link to work:** https://replit.com/@chiisquare/day17100-days
+
+### Round 2, Day 18: May 16th, 2024, Thursday
+
+**Today's Progress**: Made a number guessing game in Python where it counts the number of times it takes for the player to guess a random number. The program will automatically quit if the player guesses a negative number.
+
+**Thoughts:** Not difficut at all. The AI threatened to remove all of the difficulty for me when I found myself pausing to consider the next steps, but I resisted the temptation to just tab through its suggestions. It did help me debug a thing where I was indenting wrong though, and I was able to learn more about random() because of it. There is a small bug where the step part of randrange() seems to be defaulting to 1 instead of my specified 1000, but I will take a look at it later. Running into issues at the moment wih taking the time to sit down and really learn to code at length, but I think it is okay to take it easy for a second as I focus on other things (like picking up a side job.... the search has not been fruitful yet, but I also haven't spent much time on it so far).
+
+**Link to work:** https://replit.com/@chiisquare/day18100-days
+
+### Round 2, Day 16: May 1xth, 2024, 
 
 **Today's Progress**: 
 
@@ -982,13 +1014,28 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:**
 
-
-### Round 2, Day 17: 
+### Round 2, Day x: May 1xth, 2024, 
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** 
+
+### Round 2, Day x: May 1xth, 2024, 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x: May 1xth, 2024, 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
 
 
