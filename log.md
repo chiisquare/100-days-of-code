@@ -1006,7 +1006,7 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day18100-days
 
-### Round 2, Day 16: May 1xth, 2024, 
+### Round 2, Day 1x: May 1xth, 2024, 
 
 **Today's Progress**: 
 
