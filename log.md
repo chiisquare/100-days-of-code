@@ -1006,13 +1006,29 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day18100-days
 
-### Round 2, Day 1x: May 1xth, 2024, 
+### Round 2, Day 19: May 17th, 2024, Friday
+
+**Today's Progress**: made a loan calculator in Python including principal, APR, and number of yrs
+
+**Thoughts:** Learned about the "for i in range(a,b,c)" for loop today. I've gone over this before, but replit and @lessonhacker have been the most clear about this and many other concepts for me. I am so glad that this resource is just difficult enough to complete, but easy enough to be considered as a Duolingo step (making it easier to build a habit). I'm a fan.
+
+**Link to work:** https://replit.com/@chiisquare/day-19100-days
+
+### Round 2, Day x: May 18th, 2024, Saturday
+
+**Today's Progress**: Made a number list generator using Python
+
+**Thoughts:** Learned more about the increment part of the range() function. Also learned more about common errors. Simple task.
+
+**Link to work:** https://replit.com/@chiisquare/day20100-days
+
+### Round 2, Day x: May 1xth, 2024, 
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** 
 
 ### Round 2, Day x: May 1xth, 2024, 
 
@@ -1038,4 +1054,27 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** 
 
+### Round 2, Day x: May 1xth, 2024, 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x: May 1xth, 2024, 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x: May 1xth, 2024, 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
 
