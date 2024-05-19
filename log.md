@@ -1014,7 +1014,7 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-19100-days
 
-### Round 2, Day x: May 18th, 2024, Saturday
+### Round 2, Day 20: May 18th, 2024, Saturday
 
 **Today's Progress**: Made a number list generator using Python
 
