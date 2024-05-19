@@ -1022,13 +1022,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day20100-days
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day 21: May 19th, 2024, Sunday 
 
-**Today's Progress**: 
+**Today's Progress**: Made a scored math quiz asking for the first ten multiples of a given, inputted integer using Python
 
-**Thoughts:** 
+**Thoughts:** took me some time to figure out how to phrase stuff. the built-in AI, once again, helped me start off my code after the for loop, but everything else was pretty straightforward.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day-21100-days
 
 ### Round 2, Day x: May 1xth, 2024, 
 
