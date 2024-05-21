@@ -1038,13 +1038,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day22100-days
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day 23: May 21, 2024, Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: updated my login system by learning about, creating, and calling upon a subroutine
 
-**Thoughts:** 
+**Thoughts:** very quick project. I don't have many thoughts on it atm.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day23100-days
 
 ### Round 2, Day x: May 1xth, 2024, 
 
