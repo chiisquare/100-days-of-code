@@ -1030,13 +1030,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day-21100-days
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day 22: May 20th, 2024, Monday
 
-**Today's Progress**: 
+**Today's Progress**: remade my number guessing game to make it random in a different way and also learned a bit about libraries (Python).
 
-**Thoughts:** 
+**Thoughts:** My original code from day 18 was already a random number generator, but it was cool to explicitly learn more about the code behind it rather than merely copying and pasting. 
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day22100-days
 
 ### Round 2, Day x: May 1xth, 2024, 
 
