@@ -1046,13 +1046,13 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day23100-days
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day 24: May 22, 2024, Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: made a custom infinity die generator by creating a subroutine with multiple parameters in Python
 
-**Thoughts:** 
+**Thoughts:** a bit challenging to remember the format, especially the randint part.
 
-**Link to work:** 
+**Link to work:** https://replit.com/@chiisquare/day24100-days-of-code
 
 ### Round 2, Day x: May 1xth, 2024, 
 
