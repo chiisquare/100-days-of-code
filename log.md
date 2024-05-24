@@ -1054,7 +1054,15 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** https://replit.com/@chiisquare/day24100-days-of-code
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day 25: May 23, 2024, Thursday
+
+**Today's Progress**: learned about the return command and created a character HP stat generator in Python by designing three subroutines (only two are actually needed to calculate the HP stat though, which befuddles me).
+
+**Thoughts:** Not tough, but fulfilling the bonus requests (specifically the random color) really stumped me. Googling the answer only made me more confused as they would only use random colored text for each letter of a specified string... At some point, the AI pitied me and just gave me the code, which used an if statement and randint(). I learned more about generating text in color now, lol...
+
+**Link to work:** https://replit.com/@chiisquare/day-25100-days-of-code
+
+### Round 2, Day 26: 
 
 **Today's Progress**: 
 
@@ -1062,7 +1070,15 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** 
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day x: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Round 2, Day x:
 
 **Today's Progress**: 
 
@@ -1070,7 +1086,7 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** 
 
-### Round 2, Day x: May 1xth, 2024, 
+### Round 2, Day x: 
 
 **Today's Progress**: 
 
@@ -1078,3 +1094,34 @@ I made a long thread on this twitter about my experience with 100daysofcode. In 
 
 **Link to work:** 
 
+### Round 2, Day x:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Round 2, Day x: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
